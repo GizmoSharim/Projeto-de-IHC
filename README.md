@@ -45,8 +45,8 @@ foi necessário seguir vários passos importantes para essa avaliação. Abaixo 
 [Reflexão Individual - Aila](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/teste_usabilidade/reflexao_individual.md)<br/>
 [Tabela de Tarefas](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/teste_usabilidade/tabela_tarefas.md)<br/>
 
-- Avaliação UX (User Experience):<br/>
-[Relatório de Avaliação UX](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/avaliacao_ux/relatorio_avaliacao_ux.md)<br/>
+- Avaliação de UX (User Experience):<br/>
+[Relatório de Avaliação de UX](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/avaliacao_ux/relatorio_avaliacao_ux.md)<br/>
 
 - Avaliação de Comunicabilidade:<br/>
 [Relatório de Comunicabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/avaliacao_comunicabilidade/relatorio_comunicabilidade.md)<br/>
