@@ -16,7 +16,12 @@ Sistema: AliExpress<br/>
 
 (Inserir objetivos do trabalho e especificar cada processo de avaliação)<br/>
 
-#### Links para cada relatório do projeto<br/>
+#### Links para cada relatório ou produto do projeto<br/>
+- Sistema:<br/>
+[Domínio e Objetivo do Sistema](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/sistema/dominio_objetivo_sistema.md)<br/>
+[Perfil dos Usuários alvo](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/sistema/perfil_usuarios_alvo.md)<br/>
+[Tarefas dos Usuários](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/sistema/tarefas_usuarios.md)<br/>
+
 - Inspeção de Usabilidade:<br/>
 [Relatório Inspeção](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/relatorio_inspecao.md)<br/>
 [Tabela Coleção](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
@@ -27,7 +32,25 @@ Sistema: AliExpress<br/>
 - Teste de Usabilidade:<br/>
 [Reflexão Individual - Aila](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/teste_usabilidade/reflexao_individual.md)<br/>
 [Tabela de Tarefas](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/teste_usabilidade/tabela_tarefas.md)<br/>
+
+- Avaliação UX (User Experience):<br/>
+[Relatório de Avaliação UX](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/avaliacao_ux/relatorio_avaliacao_ux.md)<br/>
+
+- Avaliação de Comunicabilidade:<br/>
+[Relatório de Comunicabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/avaliacao_comunicabilidade/relatorio_comunicabilidade.md)<br/>
+[TCLE]()<br/>
+[Vídeos]()<br/>
+
+
 []()<br/>
 []()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+[]()<br/>
+
 
 
