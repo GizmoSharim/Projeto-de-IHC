@@ -13,3 +13,7 @@ Sabrina Martins Bezerra - 22402235<br/>
 Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 Sistema: AliExpress<br/>
+
+(Inserir objetivos do trabalho e especificar cada processo de avaliação)<br/>
+
+(Organizar links que levam para cada relatório e produto produzido neste trabalho)<br/>
