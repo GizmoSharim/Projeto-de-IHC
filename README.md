@@ -35,10 +35,10 @@ foi necessário seguir vários passos importantes para essa avaliação. Abaixo 
 [Tarefas dos Usuários](https://github.com/GizmoSharim/Projeto-de-IHC/blob/e1edcfc007879215a33ba1b8ab8ad89c2d0ed4ef/docs/sistema/tarefas_usuarios.md)<br/>
 
 - Inspeção de Usabilidade:<br/>
-[Relatório Inspeção](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/relatorio_inspecao.md)<br/>
-[Tabela Coleção](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
-[Tabela de Detecção](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_deteccao.md)<br/>
-[Tabela Discriminação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_discriminacao.md)<br/>
+[Relatório Inspeção de Usabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/relatorio_inspecao.md)<br/>
+[Tabela de Coleção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
+[Tabela de Detecção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_deteccao.md)<br/>
+[Tabela de Discriminação de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_discriminacao.md)<br/>
 [Imagens]()<br/>
 
 - Teste de Usabilidade:<br/>
