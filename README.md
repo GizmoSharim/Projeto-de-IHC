@@ -15,6 +15,18 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 Sistema: AliExpress<br/>
 
 (Inserir objetivos do trabalho e especificar cada processo de avaliação)<br/>
+OBS.: VAMOS TER Q DETALHAR COMO FOI FEITO CADA PASSO (isso q entendi) <br/>
+
+**Objetivo do Trabalho e os Processos de Avaliação**<br/>
+
+O objetivo do trabalho é realizar a análise do sistema de e-commerce, o AliExpress. Para realizar esta análise,<br/>
+foi necessário seguir vários passos importantes para essa avaliação. Abaixo segue os passos:<br/>
+
+1. Definir o objetivo do sistema e perfil dos usuários: <br/>
+2. Inspeção de Usabilidade: <br/>
+3. Teste de Usabilidade: <br/>
+4. Avaliação de UX: <br/>
+5. Avaliação de Comunicabilidade: <br/>
 
 #### Links para cada relatório ou produto do projeto<br/>
 - Sistema:<br/>
