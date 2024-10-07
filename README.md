@@ -14,8 +14,8 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 Sistema: AliExpress<br/>
 
-(Inserir objetivos do trabalho e especificar cada processo de avaliação)<br/>
-OBS.: VAMOS TER Q DETALHAR COMO FOI FEITO CADA PASSO (isso q entendi) <br/>
+*(Inserir objetivos do trabalho e especificar cada processo de avaliação)*<br/>
+*OBS.: VAMOS TER Q DETALHAR COMO FOI FEITO CADA PASSO (isso q entendi)* <br/>
 
 **Objetivo do Trabalho e os Processos de Avaliação**<br/>
 
