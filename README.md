@@ -36,7 +36,7 @@ foi necessário seguir vários passos importantes para essa avaliação. Abaixo 
 
 - Inspeção de Usabilidade:<br/>
 [Relatório Inspeção de Usabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/relatorio_inspecao.md)<br/>
-[Tabela de Coleção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
+[Tabela de Coleção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/ecc71ef8c41582c44fe114050aa52a704f601be2/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
 [Tabela de Detecção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_deteccao.md)<br/>
 [Tabela de Discriminação de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/8334c3985133afcfacc9c4cad4d2bcdbb0429e5c/docs/inspecao_usabilidade/tabela_discriminacao.md)<br/>
 [Imagens]()<br/>
