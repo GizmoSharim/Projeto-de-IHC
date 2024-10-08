@@ -29,5 +29,5 @@
 |    3     |       |
 |    4     |       |
 ### Anotações: Abas como essas que quando precionadas, não há explicação para onde o usuário estar sendo direcionado.<br/>
-### Solução(ões): Seria mais viável se quando as abas fossem precionadas, aparecesse uma explicação para onde o usuário irá se nocaso ele clicar no link.<br/>
+### Solução(ões): Seria mais viável se quando as abas fossem precionadas, aparecesse uma explicação para onde o usuário irá se no caso ele clicar no link.<br/>
  
