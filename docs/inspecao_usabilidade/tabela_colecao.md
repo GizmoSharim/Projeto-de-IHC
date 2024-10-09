@@ -1,4 +1,4 @@
-# COLEÇÃO
+# Tabela de Coleção de Defeitos
 
 Descrição: Processo de eliminação de discrepâncias repetidas, resultando em uma lista composta apenas por discrepâncias únicas.
 
