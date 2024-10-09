@@ -1,13 +1,10 @@
-# Relatório de Coleção<br/>
+# COLEÇÃO
 
-### Relatório - Adam<br/>
+Descrição: Processo de eliminação de discrepâncias repetidas, resultando em uma lista composta apenas por discrepâncias únicas.
 
-### Relatório - Aila<br/>
-
-### Relatório - Geovanni<br/>
-
-### Relatório - Gustavo<br/>
-
-### Relatório - Ícaro<br/>
-
-### Relatório - Sabrina<br/>
+| ID | Inspetores | Descrição do problema | Heurísticas Violadas | Severidade |
+|----|------------|-----------------------|----------------------|------------|
+|  1 |            |                       |                      |            |
+|  2 |            |                       |                      |            |    
+|  3 |            |                       |                      |            |       
+|  4 |            |                       |                      |            |      
