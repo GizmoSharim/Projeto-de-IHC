@@ -4,20 +4,43 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A1
 
-| ID | Heurísticas Violadas | Severidade | Carga Horária |
-|----|----------------------|------------|---------------|
-|  1 |                      |            |               |
-|  2 |                      |            |               |
-|  3 |                      |            |               |
-|  4 |                      |            |               |
+| ID | Heurísticas Violadas                 | Severidade| Carga Horária  |
+|----|--------------------------------------|-----------|----------------|
+|  1 |Design Estetico e minimalista         |     2     |   2 minutos    |
+|  2 |Consistencia e padrões                |     3     |   3 minutos    |
+|  3 |Prevenção de erro                     |     2     |   4 minutos    |
+|  4 |Prevenção de erro                     |     2     |   4 minutos    |
+|  5 |Consistencia e padrões                |     2     |   3 minutos    |
+|  6 |visibilidade do status do sistema     |     2     |   7 minutos    |
+|  7 |reconhecer é melhor do que lembrar    |     4     |   2 minutos    |
+|  8 |Consistencia e padrões                |     3     |   2 minutos    |
+|  9 |diferença entre sistema e o mundo real|     4     |   7 minutos    |
+| 10 |Prevenção de erro                     |     4     |   6 minutos    |
+| 11 |diferença entre sistema e o mundo real|     4     |   2 minutos    |
 
-1 - Descrição do problema:<br/>
 
-2 - Descrição do problema:<br/>
+1 - Descrição do problema:<br/> muita informação após um novo usuário acessar a pagina | recomendação: minimizar a informação
 
-3 - Descrição do problema:<br/>
+2 - Descrição do problema:<br/> texto não alinhado com os icones | recomendação sincronizar os icones e textos 
 
-4 - Descrição do problema:<br/>
+3 - Descrição do problema:<br/> menus de categoria pouco intuitivo referento ao que é "Choice" e "Plus" | recomendação: mudar a lista de categorias, novos usuários não irão saber o que é.
+
+4 - Descrição do problema:<br/> induz ao usuário abrir uma nova aba ao inves de mostrar o produto imediatamente | recomendação: abrir o produto ao inves de uma de uma aba com novos produtos
+
+5- a mensagem alinhada a esquerda | recomendação: expandir a mensagem para cobrir todo o espaço
+
+6- a cor pode indicar ao usuário algo pendente nessas categorias | recomendação: usar uma cor transparente para os icones.
+
+7- uso de hyperlink para as funções | recomendação: usar icones.
+
+8- fontes diferentes | recomendação: usar fontes parecidas ou iguais.
+
+9-palavra desconhecida | recomendação: usar uma expressão conhecida
+
+10-produtos com preços diferentes na mesma aba | recomendação: dividir por modelo e preço para não haver engano
+
+11-mistura de idiomas | recomendação: usar o portugues ou apenas um idioma
+
 
 
 ### Inspetor : A2
