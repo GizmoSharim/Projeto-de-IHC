@@ -87,3 +87,29 @@
 confunde o usuário, pois ele vai estar sendo direcionado para outras abas de pesquisa que não são
 referentes ao que estar procurando.
 **Recomendação:** Ser fiel a pesquisa do usuário, sempre cedendo informações que o usuário deseja.
+
+
+
+
+# Relatório de Detecção
+
+Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve identificar potenciais problemas de usabilidade nas interações escolhidas.
+
+### Inspetor : A1
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
+
+
+### Inspetor : A2
+
+| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
+|----|-----------------------|----------------------|------------|---------------|
+|  1 |                       |                      |            |               |
+|  2 |                       |                      |            |               |
+|  3 |                       |                      |            |               |
+|  4 |                       |                      |            |               |
