@@ -97,19 +97,118 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A1
 
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
-|----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
 
 
 ### Inspetor : A2
 
-| ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
-|----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
+
+
+### Inspetor : A3
+
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
+
+
+
+### Inspetor : A4
+
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
+
+
+
+### Inspetor : A5
+
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
+
+
+### Inspetor : A6
+
+| ID | Heurísticas Violadas | Severidade | Carga Horária |
+|----|----------------------|------------|---------------|
+|  1 |                      |            |               |
+|  2 |                      |            |               |
+|  3 |                      |            |               |
+|  4 |                      |            |               |
+|  5 |                      |            |               |
+|  6 |                      |            |               |
+|  7 |                      |            |               |
+
+1 - Descrição do problema:<br/>
+
+2 - Descrição do problema:<br/>
+
+3 - Descrição do problema:<br/>
+
+4 - Descrição do problema:<br/>
+
+5 - Descrição do problema:<br/>
+
+6 - Descrição do problema:<br/>
+
+7 - Descrição do problema:<br/>
