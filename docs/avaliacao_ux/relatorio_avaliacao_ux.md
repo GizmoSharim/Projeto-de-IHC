@@ -1,4 +1,6 @@
 # Produto 8: LightHouse.
+Segundo Heričko, Šumak e Brdnik (2021) várias ferramentas podem ser usadas para avaliar a performace de um sistema, mas uma que vem se destacando é o Google Lighthouse. Esse é um instrumento de codigo aberto que que oferece uma perspectiva sobre o desempenho, a acessibilidade e otimização do site desejado, bem como demonstra as possíveis soluções para melhora-las. O lighthouse também pode ser um importante meio para verificar a experiencia do usuário, por meio de métricas como o Lasgest Contenful Paint (LCP), o Interaction to Next Paint (INP), o Cumulative Layout Shift (CLS), o First Contenful Paint (FCP) e o Time to first Byte (TTFB). Todos impactando diretamente na perspectiva que o usuário tem ao acessar determinado site, dessa forma esse produto busca apresentar os resultados gerais indicados pelo lighthouse (como apresentado na imagem abaixo) e, após, trazer uma análise sobre cada métrica, assim como discorrer sobre a acessibilidade que o sistema aliexpress.com possui. 
+
 ![image](https://github.com/user-attachments/assets/a8dc4c44-b821-4dd9-a8cc-7455b163338e)
 Fonte: https://pagespeed.web.dev/analysis/https-www-aliexpress-com-gcp-300000544-w5mAJSydGG/e1uzaoj3n3?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=pt&utm_source=lh-chrome-ext
 ## Largest Contenful Paint (LCP)
@@ -21,3 +23,7 @@ Fonte: https://pagespeed.web.dev/analysis/https-www-aliexpress-com-gcp-300000544
 
 
 # Produto 9: UEQ Online.
+
+# Referencias
+
+Heričko, Tjaša; Šumak, Boštjan; Brdnik, Saša. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. 10.18690/978-961-286-516-0.9. 
