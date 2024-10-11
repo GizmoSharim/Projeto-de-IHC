@@ -16,6 +16,7 @@ Esse resultado coloca o site em uma vantagem importante em relação aos concorr
 ## Interaction to Next Paint (INP)
 ![image](https://github.com/user-attachments/assets/0aae65d7-91fc-4765-9472-57ed102d6f56)
 
+Para Wagner (2022) o Interaction to Next Paint é o responsável por medir a responsividade dos elementos do sistema quando o usuário interage, ou seja, o tempo de resposta que algum elemento tem ao se interagir com o mesmo. Sua classificação é de 0 a 200 possui uma boa resposta, acima de 200 até 500 é preciso fazer melhorias, já, superando esse valor, indica que o sistema possui um tempo de resposta ruim. O site avaliado apresentou o resultado de 112 ms como resposta, indicando que seus elementos possuem um feedback visual bom quando os usuários interagem com os mesmos. Portanto, as respostas às interações do usuário são atendidas em um tempo hábil, consequentemente, afetando positivamente a experiência do usuário.
 ## Cumulative Layout Shift (CLS)
 ![image](https://github.com/user-attachments/assets/54f88e1e-5d1a-4971-995d-daaafa0cdeb9)
 
@@ -34,4 +35,9 @@ Esse resultado coloca o site em uma vantagem importante em relação aos concorr
 # Referencias
 
 Heričko, Tjaša; Šumak, Boštjan; Brdnik, Saša. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. 10.18690/978-961-286-516-0.9. 
+
 Lee, H. et. al. Rakuten. fonte: https://web.dev/case-studies/rakuten
+
+Wagner, J. Interaction to next paint (INP). web.dev. fonte: https://web.dev/articles/inp
+
+Walton, P.; Polard, B. Largest Contentful Paint (LCP). web.dev fonte: https://web.dev/articles/lcp
