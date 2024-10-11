@@ -16,4 +16,8 @@ Fonte: https://pagespeed.web.dev/analysis/https-www-aliexpress-com-gcp-300000544
 ## time to First Byte (TTFB)
 ![image](https://github.com/user-attachments/assets/584bd5e3-a377-4337-96f1-357859074817)
 
+## Acessibilidade
+![image](https://github.com/user-attachments/assets/2c79bbca-0d18-4fd9-8c05-72089132b747)
+
+
 # Produto 9: UEQ Online.
