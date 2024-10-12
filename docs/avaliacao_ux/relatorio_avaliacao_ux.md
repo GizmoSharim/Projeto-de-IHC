@@ -41,12 +41,12 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 # Referencias
 
-Heričko, Tjaša; Šumak, Boštjan; Brdnik, Saša. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. 10.18690/978-961-286-516-0.9. 
+Heričko, Tjaša; Šumak, Boštjan; Brdnik, Saša. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
 
-Lee, H. et. al. Rakuten. fonte: https://web.dev/case-studies/rakuten
+Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-studies/rakuten>. Acesso em: 10/10/2024.
 
-Wagner, J. Interaction to next paint (INP). web.dev. fonte: https://web.dev/articles/inp
+Wagner, J. (2022). Interaction to next paint (INP). WEB.DEV. Disponível em:  <fonte: https://web.dev/articles/inp>. Acesso em: 10/10/2024.
 
-Walton, P.; Polard, B. Largest Contentful Paint (LCP). web.dev fonte: https://web.dev/articles/lcp
+Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: <fonte: https://web.dev/articles/lcp>. Acesso em: 11/10/2024
 
-WEBAIM. Texto Alternativo. https://webaim.org/techniques/alttext/
+WEBAIM. (2021). Texto Alternativo. WEBAIM. Disponivel em: <https://webaim.org/techniques/alttext/>. Acesso em: 11/10/2024.
