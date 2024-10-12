@@ -41,7 +41,7 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 # Referencias
 
-Heričko, Tjaša; Šumak, Boštjan; Brdnik, Saša. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
+Heričko, T.; Šumak, B.; Brdnik, S.. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
 
 Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-studies/rakuten>. Acesso em: 10/10/2024.
 
