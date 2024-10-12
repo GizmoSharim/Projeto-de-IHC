@@ -29,6 +29,13 @@ Para Wagner (2022) o Interaction to Next Paint é o responsável por medir a res
 ## Acessibilidade
 ![image](https://github.com/user-attachments/assets/2c79bbca-0d18-4fd9-8c05-72089132b747)
 
+O Google Lighthouse classificou o sistema com uma pontuação de 76 em acessibilidade, identificando algumas áreas de melhoria: falta de atributos em elementos, botões de entrada sem texto compreensível, baixo contraste em textos, e ausência da especificação do idioma principal no HTML da página. Quanto ao primeiro ponto, muitos elementos não textuais no site não possuem textos alternativos, o que é crucial para acessibilidade. Segundo a WEBAIM (2021), o texto alternativo substitui conteúdos visuais e não textuais, permitindo que pessoas com deficiência visual ou cognitiva compreendam esses elementos adequadamente.
+
+Assim como no caso dos elementos visuais, o problema dos botões sem texto compreensível ocorre quando imagens ou objetos interativos, como botões gráficos, não possuem descrições claras no código-fonte. Isso dificulta o funcionamento correto de leitores de tela, prejudicando a navegação de usuários com deficiência visual. Além disso, o baixo contraste entre o texto e o fundo é outro problema identificado no site. De acordo com as diretrizes da WCAG (Web Content Accessibility Guidelines), é fundamental que haja um contraste suficiente entre texto e fundo para que as informações sejam percebidas facilmente por pessoas com deficiência visual.
+
+Por fim, a falta de especificação do idioma principal da página no código HTML pode levar a problemas de leitura com leitores de tela. Sem essa especificação, o leitor de tela pode utilizar o idioma padrão do sistema do usuário, causando erros caso o idioma da página seja diferente, comprometendo a experiência de navegação.
+
+
 
 # Produto 9: UEQ Online.
 
@@ -41,3 +48,5 @@ Lee, H. et. al. Rakuten. fonte: https://web.dev/case-studies/rakuten
 Wagner, J. Interaction to next paint (INP). web.dev. fonte: https://web.dev/articles/inp
 
 Walton, P.; Polard, B. Largest Contentful Paint (LCP). web.dev fonte: https://web.dev/articles/lcp
+
+WEBAIM. Texto Alternativo. https://webaim.org/techniques/alttext/
