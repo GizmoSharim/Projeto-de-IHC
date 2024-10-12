@@ -20,26 +20,37 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 
 1 - Descrição do problema:<br/> Muita informação após um novo usuário acessar a pagina | recomendação: minimizar a informação
+[]()
 
-2 - Descrição do problema:<br/> Texto não alinhado com os icones | recomendação sincronizar os icones e textos 
+2 - Descrição do problema:<br/> Texto não alinhado com os icones | recomendação sincronizar os icones e textos. 
+[]()
 
 3 - Descrição do problema:<br/> Menus de categoria pouco intuitivo referento ao que é "Choice" e "Plus" | recomendação: mudar a lista de categorias, novos usuários não irão saber o que é.
+[]()
 
-4 - Descrição do problema:<br/> Induz ao usuário abrir uma nova aba ao inves de mostrar o produto imediatamente | recomendação: abrir o produto ao inves de uma de uma aba com novos produtos
+4 - Descrição do problema:<br/> Induz ao usuário abrir uma nova aba ao inves de mostrar o produto imediatamente | recomendação: abrir o produto ao inves de uma de uma aba com novos produtos.
+[]()
 
-5 - Descrição do problema:<br/> A mensagem alinhada a esquerda | recomendação: expandir a mensagem para cobrir todo o espaço
+5 - Descrição do problema:<br/> A mensagem alinhada a esquerda | recomendação: expandir a mensagem para cobrir todo o espaço.
+[]()
 
 6 - Descrição do problema:<br/> A cor pode indicar ao usuário algo pendente nessas categorias | recomendação: usar uma cor transparente para os icones.
+[]()
 
 7 - Descrição do problema:<br/> Uso de hyperlink para as funções | recomendação: usar icones.
+[]()
 
 8 - Descrição do problema:<br/> Fontes diferentes | recomendação: usar fontes parecidas ou iguais.
+[]()
 
-9 - Descrição do problema:<br/> Palavra desconhecida | recomendação: usar uma expressão conhecida
+9 - Descrição do problema:<br/> Palavra desconhecida | recomendação: usar uma expressão conhecida.
+[]()
 
-10 - Descrição do problema:<br/> Produtos com preços diferentes na mesma aba | recomendação: dividir por modelo e preço para não haver engano
+10 - Descrição do problema:<br/> Produtos com preços diferentes na mesma aba | recomendação: dividir por modelo e preço para não haver engano.
+[]()
 
 11 - Descrição do problema:<br/> Mistura de idiomas | recomendação: usar o portugues ou apenas um idioma.
+[]()
 
 
 ### Inspetor : A2
@@ -129,16 +140,23 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  7 |Consistência e padrões             |     3      |   7 minutos   |
 
 1 - Descrição do problema:<br/> Nessa parte superior do site há muita informação, isso sobrecarrega o site e deixa o usuário confuso.<br/>
+[]()
 
 2 - Descrição do problema:<br/> Abas como essas que quando precionadas, não há explicação para onde o usuário estar sendo direcionado.<br/>
+[]()
 
 3 - Descrição do problema:<br/> As informações fornecidas são confusas.<br/>
+[]()
 
 4 - Descrição do problema:<br/> As imagens dos ícones são confusas, por exemplo o das fantasias...um analfabeto (que não sabe ler) não vai saber identificar se é fantasias ou não.<br/>
+[]()
 
 5 - Descrição do problema:<br/> O próprio site dá um certo bug no sistema, com informações anteriores adentrando em cima das informações posteriores.<br/>
+[]()
 
 6 - Descrição do problema:<br/> Não há informação explícita do que estar à venda e isso pode confundir o usuário.<br/>
+[]()
 
 7 - Descrição do problema:<br/> No ícone de "preços" que não apareceu quando tirei print, não segue o combinado de pesquisa, isso confunde o usuário, pois ele vai estar sendo direcionado para outras abas de pesquisa que não são
 referentes ao que estar procurando.<br/>
+[]()
