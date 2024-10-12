@@ -92,20 +92,32 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A4
 
-| ID | Heurísticas Violadas | Severidade | Carga Horária |
-|----|----------------------|------------|---------------|
-|  1 |                      |            |               |
-|  2 |                      |            |               |
-|  3 |                      |            |               |
-|  4 |                      |            |               |
+| ID | Heurísticas Violadas                       | Severidade | Carga Horária |
+|----|--------------------------------------------|------------|---------------|
+|  1 |Desing estético e minimalista               |      2     |2 minutos      |
+|  2 |Controle e liberdade do usuário             |      2     |3 minutos      |
+|  3 |Recohecer ao invés de relembrar             |      3     |4 minutos      |
+|  4 |Design estéticoe minimaslista               |      2     |5 minutos      |
+|  5 |Desing estético e minimalista               |      3     |3 minutos      |
+|  6 |Desing estético e minimalista               |      2     |6 minutos      |
+|  7 |Compatibilidade do sistema com o mundo real |      3     |6 minutos      |
+|  8 |Consistência e padrões                      |      3     |5 minutos      |
 
-1 - Descrição do problema:<br/>
+1 - Descrição do problema:<br/>O sistema apresenta muitas informações na tela inicial, com muitas opções no menu sem um explicação clara, podendo deixar o usuário confuso e perdido.
 
-2 - Descrição do problema:<br/>
+2 - Descrição do problema:<br/>Ao clicar em qualquer opção, o usuário é encaminhado para outra página, sem uma opção ou ícone para retornar à página anterior.
 
-3 - Descrição do problema:<br/>
+3 - Descrição do problema:<br/>A barra de busca do sistema recomenda opções de busca ao usuário, porém, ao pesquisar por alguns produtos, o sistema exibe produtos diferentes.
 
-4 - Descrição do problema:<br/>
+4 - Descrição do problema:<br/>Informações espalhadas e sem ícones ou cores diferentes para indicar que são links.
+
+5 - Descrição do problema:<br/>Muitas opções de produtos são ofertados na tela, entretanto, o sistema exibe muitos produtos, sem uma classificação do tipo do produto.
+
+6 - Descrição do problema:<br/>Muito texto e informações para especificar o produto e a compra, o que pode deixar o usuário cansado de ler e acabar o induzindo ao erro.
+
+7 - Descrição do problema:<br/>Informação que pode não fazer sentido para o usuário.
+
+8 - Descrição do problema:<br/>O ícone que se parece com uma lojinha não descreve o que ele significa, e pode induzir o usuário a pensar que é o caminho para a página principal do site, ou ter outra ideia de seu significado.
 
 
 
