@@ -55,20 +55,66 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 ### Inspetor : A2
 
-| ID | Heurísticas Violadas | Severidade | Carga Horária |
-|----|----------------------|------------|---------------|
-|  1 |                      |            |               |
-|  2 |                      |            |               |
-|  3 |                      |            |               |
-|  4 |                      |            |               |
+| ID |           Heurísticas Violadas            | Severidade | Carga Horária |
+|----|-------------------------------------------|------------|---------------|
+|  1 |Compatibilidade do sistema com o mundo real|     3      |   3 minutos   |
+|  2 |Consistência e padrões                     |     4      |   5 minutos   |
+|  3 |Compatibilidade do sistema com o mundo real|     3      |   3 minutos   |
+|  4 |Estética e design minimalista              |     3      |   10 minutos  |
+|  5 |Consistência e padrões                     |     2      |   2 minutos   |
+|  6 |Visibilidade do status do sistema          |     3      |   3 minutos   |
+|  7 |Compatibilidade do sistema com o mundo real|     2      |   7 minutos   |
+|  8 |Estética e design minimalista              |     1      |   3 minutos   |
+|  9 |Visibilidade do status do sistema          |     2      |   4 minutos   |
+| 10 |Controle e liberdade do usuário            |     3      |   4 minutos   |
+| 11 |                                           |            |   3 minutos   |
+| 12 |                                           |            |   3 minutos   |
+| 13 |                                           |            |   3 minutos   |
+| 14 |                                           |            |   3 minutos   |
+| 15 |                                           |            |   3 minutos   |
+| 16 |                                           |            |   3 minutos   |
 
 1 - Descrição do problema:<br/>
+O botão "choice", além de não estar em português brasileiro, ele não oferece o significado dele mesmo. Vale ressaltar que, ao acessar esse link, lá na página do mesmo, não há informações do que significa.<br/>
 
 2 - Descrição do problema:<br/>
+Quando o botão do produto é clicado, ele não redireciona para o produto em si, mas sim para uma página com vários produtos que não são do interesse do usuário.
 
 3 - Descrição do problema:<br/>
+A parte onde ficam os produtos exclusivos para os novos usuários, não possuem o nome dos produtos, há somente as imagens e o preço do produto.
 
 4 - Descrição do problema:<br/>
+Quando o botão "plus" que está localizado no menu é clicado, uma outra aba é aberta. Nessa nova página, é possível perceber que a fonte e o tamanho do ícones (produtos) são desproporcionais, por esse motivo o esta página ficou desorganizada.
+
+5 - Descrição do problema:<br/>
+Quando o botão "plus" que está localizado no menu é clicado, uma outra aba é aberta e é possível perceber o problema de consistência, ou seja, esta página não segue o padrão da página inicial.
+
+6 - Descrição do problema:<br/>
+As informações dos produtos da página "plus", não estão totalmente visíveis para o usuário.
+
+7 - Descrição do problema:<br/>
+Quando o botão de Big Save foi clicado o usuário é redirecionada para outra página, porém, ele informou que está em manutenção. Todavia, além mostrar essa informação de forma desorganizada, a mesma está em outro idioma.
+
+8 - Descrição do problema:<br/>
+As informações deste baner não estão totalmente visíveis, pois, ele não coube dentro da própria página.
+
+9 - Descrição do problema:<br/>
+Quando o botão de "Adicionar ao carrinho" é clicado, o produto não é adicionado e não mostra o motivo do usuário não conseguir realizar esta ação.
+
+10 - Descrição do problema:<br/>
+Quando o botão do produto que está em oferta é clicado, ele redireciona o usuário para outra página. Consequetemente, o usuário não consegue voltar para a página inicial.
+
+11 - Descrição do problema:<br/>
+
+12 - Descrição do problema:<br/>
+
+13 - Descrição do problema:<br/>
+
+14 - Descrição do problema:<br/>
+
+15 - Descrição do problema:<br/>
+
+16 - Descrição do problema:<br/>
 
 
 ### Inspetor : A3
