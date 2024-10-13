@@ -67,54 +67,76 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 |  8 |Estética e design minimalista              |     1      |   3 minutos   |
 |  9 |Visibilidade do status do sistema          |     2      |   4 minutos   |
 | 10 |Controle e liberdade do usuário            |     3      |   4 minutos   |
-| 11 |                                           |            |   3 minutos   |
-| 12 |                                           |            |   3 minutos   |
-| 13 |                                           |            |   3 minutos   |
-| 14 |                                           |            |   3 minutos   |
-| 15 |                                           |            |   3 minutos   |
-| 16 |                                           |            |   3 minutos   |
+| 11 |Prevenção de erros                         |     3      |   6 minutos   |
+| 12 |Visibilidade do status do sistema          |     4      |   8 minutos   |
+| 13 |Flexibilidade e eficiência de uso          |     4      |   3 minutos   |
+| 14 |Ajuda e documentação                       |     2      |   4 minutos   |
+| 15 |Reconhecer ao invés de relembrar           |     2      |   3 minutos   |
+| 16 |Consistência e padrões                     |     2      |   2 minutos   |
 
 1 - Descrição do problema:<br/>
 O botão "choice", além de não estar em português brasileiro, ele não oferece o significado dele mesmo. Vale ressaltar que, ao acessar esse link, lá na página do mesmo, não há informações do que significa.<br/>
+[]()
 
 2 - Descrição do problema:<br/>
 Quando o botão do produto é clicado, ele não redireciona para o produto em si, mas sim para uma página com vários produtos que não são do interesse do usuário.
+[]()
 
 3 - Descrição do problema:<br/>
 A parte onde ficam os produtos exclusivos para os novos usuários, não possuem o nome dos produtos, há somente as imagens e o preço do produto.
+[]()
 
 4 - Descrição do problema:<br/>
 Quando o botão "plus" que está localizado no menu é clicado, uma outra aba é aberta. Nessa nova página, é possível perceber que a fonte e o tamanho do ícones (produtos) são desproporcionais, por esse motivo o esta página ficou desorganizada.
+[]()
 
 5 - Descrição do problema:<br/>
 Quando o botão "plus" que está localizado no menu é clicado, uma outra aba é aberta e é possível perceber o problema de consistência, ou seja, esta página não segue o padrão da página inicial.
+[]()
 
 6 - Descrição do problema:<br/>
 As informações dos produtos da página "plus", não estão totalmente visíveis para o usuário.
+[]()
 
 7 - Descrição do problema:<br/>
 Quando o botão de Big Save foi clicado o usuário é redirecionada para outra página, porém, ele informou que está em manutenção. Todavia, além mostrar essa informação de forma desorganizada, a mesma está em outro idioma.
+[]()
 
 8 - Descrição do problema:<br/>
 As informações deste baner não estão totalmente visíveis, pois, ele não coube dentro da própria página.
+[]()
 
 9 - Descrição do problema:<br/>
 Quando o botão de "Adicionar ao carrinho" é clicado, o produto não é adicionado e não mostra o motivo do usuário não conseguir realizar esta ação.
+[]()
 
 10 - Descrição do problema:<br/>
 Quando o botão do produto que está em oferta é clicado, ele redireciona o usuário para outra página. Consequetemente, o usuário não consegue voltar para a página inicial.
+[]()
 
 11 - Descrição do problema:<br/>
+Quando a senha está sendo criada, há as regras para essa senha, por exemplo, deve conter números, letras ou símbolos. Porém, neste caso, a senha foi somente letras e não apresentou o erro pelo motivo de não ter símbolos e números nela.
+[]()
 
 12 - Descrição do problema:<br/>
+Quando o botão “acessibilidade” é clicado, não acontece nada, não fornece informações, somente recarrega a página principal.
+[]()
 
 13 - Descrição do problema:<br/>
+Quando as pesquisas são realizadas, os resultados não correspondem totalmente com a pesquisa do usuário, ou seja, a pesquisa é um perfume da natura, mas o resultado mostra uma panela de pressão junto com o perfume que de outra marca.
+[]()
 
 14 - Descrição do problema:<br/>
+A função “choice” é a que mais aparece dentro do site, mas não é explicada qual é a funcionalidade dela. Mesmo quando a página dessa função ou a "central de ajuda" é acessada, as informações sobre ele não estão disponíveis.
+[]()
 
 15 - Descrição do problema:<br/>
+Quando o cursor fica sobre esses ícones, não há informação sobre o que é cada um, não tem um nome ou um pequeno texto explicando para quê eles servem.
+[]()
 
 16 - Descrição do problema:<br/>
+Em outras páginas, as imagens possuem links, porém esse é somente um anúncio que não possui link. Isto quebra o padrão das outras páginas do próprio sistema, pois elas têm os links e também confude os antigos e novos usuários.
+[]()
 
 
 ### Inspetor : A3
