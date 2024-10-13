@@ -137,9 +137,9 @@ O usuário 2 teve dificuldades de pesquisar o produto, o mesmo desistiu de tenta
 O usuário 3 teve dificuldades logo na primeira tarefa, pois as informações expostas ao usuário não são bem especificadas, o mesmo teve dificuldades de pesquisar produtos pois as informações estavam em russo e comentou que há muita informação na área de “forma de pagamento”.
 O usuário 4 teve dificuldades na maioria das tarefas, a mesma achou que as informações fornecidas do site são no entanto, muito confusas e de baixa segurança, e que segundo o usuário 4, ao decorrer das tentativas de execução das tarefas o site estava sendo muito “...complicado”, “-não sei onde então as informações e não sei se estou fazendo da maneira certa essa tarefa”, assim disse o usuário.
 
-## Análise dos resultados<br/>
+### Análise dos resultados<br/>
 
-**Dados quantitativos:**<br/> 
+## Dados quantitativos:<br/> 
 
 ***1.	Registrar***<br>
 
@@ -465,5 +465,78 @@ P4: 0 erros.<br/>
 Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
 
 
+## Dados qualitativos:<br/> 
+
+***PARTICIPANTE 1***<br/>
+
+|ID                                                     | DESCRIMINAÇÃO DO PROBLEMA    | FATOR DE USABILIDADE       |
+|-------------------------------------------------------|------------------------------|----------------------------|
+|Registrar                                              |Processo de cadastro demorado |Simplicidade e rapidez      |
+|Logar                                                  |Dificuldade em realizar login |Facilidade no acesso        |
+|Escolher Produto                                       |Produtos mal organizados      |Navegação intuitiva         |
+|Verificar se o Produto é do Brasil ou de Fora          |Não teve dificuldade          |Clareza nas informações     |
+|Pesquisar Produto                                      |Não teve dificuldade          |Pesquisa eficiente          |
+|Filtrar Produtos do Brasil                             |Falta de filtros adequados    |Filtros bem definidos       |
+|Encontrar o Preço Mais Barato Considerando Taxa e Frete|Não teve dificuldade          |Transparência no preço total|
+|Escolher Método de Pagamento                           |Não teve dificuldade          |Diversidade de opções       |
+|Finalizar Compra                                       |Não teve dificuldade          |Checkout rápido e direto    |
+|Adicionar 3 Itens no Carrinho                          |Interface confusa ao adicionar|Feedback claro e rápido     |
+|Remover 3 Itens do Carrinho                            |Dificuldade em remover itens  |Remoção de itens intuitiva  |
 
 
+***PARTICIPANTE 2***<br/>
+
+|ID                                                     | DESCRIMINAÇÃO DO PROBLEMA     | FATOR DE USABILIDADE       |
+|-------------------------------------------------------|-------------------------------|----------------------------|
+|Registrar                                              |Não teve dificuldade           |Simplicidade e rapidez      |
+|Logar                                                  |Não teve dificuldade           |Facilidade no acesso        |
+|Escolher Produto                                       |Não teve dificuldade           |Navegação intuitiva         |
+|Verificar se o Produto é do Brasil ou de Fora          |Não teve dificuldade           |Clareza nas informações     |
+|Pesquisar Produto                                      |Pesquisa ineficiente           |Pesquisa eficiente          |
+|Filtrar Produtos do Brasil                             |Filtros adequados              |Filtros bem definidos       |
+|Encontrar o Preço Mais Barato Considerando Taxa e Frete|Dificuldade em calcular o custo|Transparência no preço total|
+|Escolher Método de Pagamento                           |Poucas opções de pagamento     |Diversidade de opções       |
+|Finalizar Compra                                       |Não teve dificuldade           |Checkout rápido e direto    |
+|Adicionar 3 Itens no Carrinho                          |Não teve dificuldade           |Feedback claro e rápido     |
+|Remover 3 Itens do Carrinho                            |Não teve dificuldade           |Remoção de itens intuitiva  |
+
+
+***PARTICIPANTE 3***<br/>
+
+|ID                                                     | DESCRIMINAÇÃO DO PROBLEMA    | FATOR DE USABILIDADE       |
+|-------------------------------------------------------|------------------------------|----------------------------|
+|Registrar                                              |Processo de cadastro demorado |Simplicidade e rapidez      |
+|Logar                                                  |Não teve dificuldade          |Facilidade no acesso        |
+|Escolher Produto                                       |Não teve dificuldade          |Navegação intuitiva         |
+|Verificar se o Produto é do Brasil ou de Fora          |Não teve dificuldade          |Clareza nas informações     |
+|Pesquisar Produto                                      |A pesquisa não foi eficiente  |Pesquisa eficiente          |
+|Filtrar Produtos do Brasil                             |Falta de filtros adequados    |Filtros bem definidos       |
+|Encontrar o Preço Mais Barato Considerando Taxa e Frete|Não teve dificuldade          |Transparência no preço total|
+|Escolher Método de Pagamento                           |Não teve dificuldade          |Diversidade de opções       |
+|Finalizar Compra                                       |Não teve dificuldade          |Checkout rápido e direto    |
+|Adicionar 3 Itens no Carrinho                          |Não teve dificuldade          |Feedback claro e rápido     |
+|Remover 3 Itens do Carrinho                            |Não teve dificuldade          |Remoção de itens intuitiva  |
+
+
+***PARTICIPANTE 4***<br/>
+
+|ID                                                     | DESCRIMINAÇÃO DO PROBLEMA     | FATOR DE USABILIDADE       |
+|-------------------------------------------------------|-------------------------------|----------------------------|
+|Registrar                                              |Processo de cadastro complexo  |Simplicidade e rapidez      |
+|Logar                                                  |Dificuldade em realizar login  |Facilidade no acesso        |
+|Escolher Produto                                       |Não teve dificuldade           |Navegação intuitiva         |
+|Verificar se o Produto é do Brasil ou de Fora          |Informações pouco visíveis     |Clareza nas informações     |
+|Pesquisar Produto                                      |Não teve dificuldade           |Pesquisa eficiente          |
+|Filtrar Produtos do Brasil                             |Falta de filtros adequados     |Filtros bem definidos       |
+|Encontrar o Preço Mais Barato Considerando Taxa e Frete|Dificuldade em calcular o custo|Transparência no preço total|
+|Escolher Método de Pagamento                           |Dificuldade em escolher        |Diversidade de opções       |
+|Finalizar Compra                                       |Não teve dificuldade           |Checkout rápido e direto    |
+|Adicionar 3 Itens no Carrinho                          |Interface confusa ao adicionar |Feedback claro e rápido     |
+|Remover 3 Itens do Carrinho                            |Não teve dificuldade           |Remoção de itens intuitiva  |
+
+
+## Conclusão:<br/> 
+O teste de usabilidade do site AliExpress apontou pontos fortes e áreas de melhoria. Os usuários apreciam a ampla variedade de produtos e os preços acessíveis, mas encontram dificuldades na navegação, especialmente ao explorar categorias e subcategorias. A pesquisa de produtos, embora robusta, poderia ser aprimorada com filtros mais intuitivos e precisos. O layout, embora visualmente agradável, pode sobrecarregar novos usuários com informações excessivas na tela inicial. Além disso, o processo de checkout foi descrito como confuso, especialmente no momento de aplicar cupons ou selecionar métodos de pagamento. Simplificar essas etapas e oferecer uma navegação mais clara pode melhorar a experiência geral e aumentar a satisfação do cliente.<br/>
+
+## Referências:<br/>
+João Carlos. GitHub 2024. Disponível em: (https://github.com/JoaoCarlos22/IHC-Evaluation). Acesso em: 12 out.2024.
