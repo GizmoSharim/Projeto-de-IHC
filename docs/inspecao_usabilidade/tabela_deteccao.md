@@ -208,15 +208,15 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 1 - Descrição do problema:<br/>
 Leva o usuário desatento a acreditar que o frete do produto seja gratis, caso ele faça uma rápida observação.<br/>
-Imagem: []()
+Imagem: [Prevenção de erros](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7918b5327a5c447621cd150d56c8ca7748607d15/docs/inspecao_usabilidade/imagens/imagens_inspecaoA5/1%20-%20Prevencao%20de%20erro.jpg)
 
 2 - Descrição do problema:<br/>
 Há um espaçamento em branco entre os produtos, isso o deixa sem sentido.<br/>
-Imagem: []()
+Imagem: [Design estético e minimalista](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7918b5327a5c447621cd150d56c8ca7748607d15/docs/inspecao_usabilidade/imagens/imagens_inspecaoA5/2%20-%20Design%20est%C3%A9tico%20e%20minimalista.png)
 
 3 - Descrição do problema:<br/>
 Há muita informações em um só espaço.<br/>
-Imagem: []()
+Imagem: [Design estético e minimalista](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7918b5327a5c447621cd150d56c8ca7748607d15/docs/inspecao_usabilidade/imagens/imagens_inspecaoA5/3%20-%20Design%20est%C3%A9tico%20e%20minimalista.jpg)
 
 
 ### Inspetor : A6
@@ -247,8 +247,8 @@ Imagem: [Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/P
 Imagem: [Visibilidade do status do sistema](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/5%20-%20Visibilidade%20do%20status%20do%20sistema.jpg)
 
 6 - Descrição do problema:<br/> Não há informação explícita do que estar à venda e isso pode confundir o usuário.<br/>
-[Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/6%20-%20Reconhecer%20ao%20inv%C3%A9s%20de%20relembrar.jpg)
+Imagem: [Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/6%20-%20Reconhecer%20ao%20inv%C3%A9s%20de%20relembrar.jpg)
 
 7 - Descrição do problema:<br/> No ícone de "preços" que não apareceu quando tirei print, não segue o combinado de pesquisa, isso confunde o usuário, pois ele vai estar sendo direcionado para outras abas de pesquisa que não são
 referentes ao que estar procurando.<br/>
-[Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/7%20-%20Consist%C3%AAncia%20e%20padr%C3%B5es.jpg)
+Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/7%20-%20Consist%C3%AAncia%20e%20padr%C3%B5es.jpg)
