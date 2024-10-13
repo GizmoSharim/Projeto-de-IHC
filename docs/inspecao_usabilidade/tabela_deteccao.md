@@ -123,7 +123,7 @@ Quando o botão “acessibilidade” é clicado, não acontece nada, não fornec
 Imagem: [Visibilidade do status do sistema](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/12%20-%20Visibilidade%20do%20status%20do%20sistema.jpg)
 
 13 - Descrição do problema:<br/>
-Quando as pesquisas são realizadas, os resultados não correspondem totalmente com a pesquisa do usuário, ou seja, a pesquisa é um perfume da natura, mas o resultado mostra uma panela de pressão junto com o perfume que de outra marca.<br/>
+Quando as pesquisas são realizadas, os resultados não correspondem totalmente com a pesquisa do usuário, por exemplo, a pesquisa é um perfume da natura, mas o resultado mostra uma panela de pressão junto com o perfume que de outra marca.<br/>
 Imagem: [Flexibilidade e eficiência de uso ](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/13%20-%20Flexibilidade%20e%20efici%C3%AAncia%20de%20uso.jpg)
 Imagem 2: [Flexibilidade e eficiência de uso ](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/13.2%20-%20Flexibilidade%20e%20efici%C3%AAncia%20de%20uso.jpg)
 
@@ -199,20 +199,24 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 ### Inspetor : A5
 
-| ID | Heurísticas Violadas | Severidade | Carga Horária |
-|----|----------------------|------------|---------------|
-|  1 |                      |            |               |
-|  2 |                      |            |               |
-|  3 |                      |            |               |
-|  4 |                      |            |               |
+| ID |    Heurísticas Violadas     | Severidade | Carga Horária |
+|----|-----------------------------|------------|---------------|
+|  1 |Prevenção de erros           |            |               |
+|  2 |Design estético e minimalista|            |               |
+|  3 |Design estético e minimalista|            |               |
+
 
 1 - Descrição do problema:<br/>
+Leva o usuário desatento a acreditar que o frete do produto seja gratis, caso ele faça uma rápida observação.<br/>
+Imagem: []()
 
 2 - Descrição do problema:<br/>
+Há um espaçamento em branco entre os produtos, isso o deixa sem sentido.<br/>
+Imagem: []()
 
 3 - Descrição do problema:<br/>
-
-4 - Descrição do problema:<br/>
+Há muita informações em um só espaço.<br/>
+Imagem: []()
 
 
 ### Inspetor : A6
