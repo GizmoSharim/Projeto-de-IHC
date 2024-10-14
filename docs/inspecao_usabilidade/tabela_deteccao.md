@@ -146,7 +146,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 |----|----------------------|------------|---------------|
 |  1 |Consistência e padrões|      3     |5 minutos      |
 |  2 |Ajuda e documentação  |      3      |       3 minutos        |
-|  3 |                      |            |               |
+|  3 |Reconhecimento ao invés de memorização|     3       |       4 minutos        |
 |  4 |                      |            |               |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. <br/>
@@ -158,7 +158,7 @@ O sistema não oferece documentação ou ajuda acessível para os usuários reso
 imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Ajuda%20e%20documenta%C3%A7%C3%A3o.png)
 
 3 - Descrição do problema:<br/>
-
+O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.
 4 - Descrição do problema:<br/>
 
 
