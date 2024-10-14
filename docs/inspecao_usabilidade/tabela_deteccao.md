@@ -146,7 +146,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 |----|-------------------------------------------|--------------|----------------|
 |  1 |Consistência e padrões                     |      3       | 5 minutos      |
 |  2 |Ajuda e documentação                       |      3       | 3 minutos      |
-|  3 |Reconhecimento ao invés de memorização     |      3       | 4 minutos      |
+|  3 |Reconhecimento ao invés de memorização     |      3       | 2 minutos      |
 |  4 |Compatibilidade do sistema com o mundo real|      3       | 2 minutos      |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. <br/>
