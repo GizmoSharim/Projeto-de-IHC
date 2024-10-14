@@ -4,7 +4,7 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 
 | ID | Inspetores | Descrição do problema |          Heurísticas Violadas                    | Severidade |
 |----|----------------|-----------------------|--------------------------------------------------|------------|
-|  1 | A1, A2, A3, A4 |                       |       Design Estético e Minimalista              |            |
+|  1 | A1, A2, A3, A4 |            Muita informação exibida na tela inicial, o que pode confundir o usuário.           |       Design Estético e Minimalista              |            |
 |  2 |       A1, A2, A3, A4, A6     |                       |       Consistência e Padrões                     |            |    
 |  3 |      A1, A2, A3      |                       |       Prevenção de Erros                         |            |       
 |  4 |      A1, A2, A6      |                       |       Visibilidade do Status do Sistema          |            |    
