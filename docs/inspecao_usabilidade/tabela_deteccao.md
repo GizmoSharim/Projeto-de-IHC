@@ -150,7 +150,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 |  4 |                      |            |               |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. 
-imagem:
+imagem: [Concientização e padrões] (https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png)
 2 - Descrição do problema:<br/>
 
 3 - Descrição do problema:<br/>
