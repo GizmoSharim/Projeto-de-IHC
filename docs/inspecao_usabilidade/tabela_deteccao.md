@@ -163,7 +163,7 @@ imagem: [Reconhecimento ao invés de memorização](https://github.com/GizmoShar
 
 4 - Descrição do problema:<br/>
 Busca do sistema não está adequada ao contexto ou às expectativas do mundo real. O usuário espera que "xadrez" retorne resultados relacionados ao jogo, mas o sistema mostra itens fora de contexto (como roupas).</br>
-imagem: [Compatibilidade do sistema com o mundo real]()<br/>
+imagem: [Compatibilidade do sistema com o mundo real](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Compatibilidade%20do%20sistema%20com%20o%20mundo%20real.png)<br/>
 
 ### Inspetor : A4
 
