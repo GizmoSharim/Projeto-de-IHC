@@ -1,41 +1,43 @@
 ### A6
+
 ### Teste de Usabilidade<br/>
+
 ## Planejamento<br/>
-***1. Objetivo do teste:*** Avaliar os problemas na interface do Aliexpress.<br/>
+***1. Objetivo do teste:*** Avaliar os problemas na interface do e-comerce.<br/>
 ***2. Técnicas utilizadas:*** Técnica baseada em observação (Thinking Aloud) e Tecnica baseada em perguntas (Feedback).<br/>
 ***3. Perfil dos usuários:*** Todas as pessoas de qualquer faixa etária, que não tenham deficiência visual e que possam fazer compras.<br/>
 
 **3.1 -Usuário 1 / Paticipante 1(P1):**<br/>
-*NOME:* Sabrina Leal Amazonas.<br/>
-*IDADE:* 21 anos.<br/>
-*GÊNERO:* Feminino.<br/>
-*OCUPAÇÃO:* Graduando Sistemas de Informação (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+**NOME:** Sabrina Leal Amazonas.<br/>
+**IDADE:** 21 anos.<br/>
+**GÊNERO:** Feminino.<br/>
+**OCUPAÇÃO:** Graduando Sistemas de Informação (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 
 **3.2 -Usuário 2 / Paticipante 2(P2):**<br/>
-*NOME:* Kaio Vitor Pereira de Castro.<br/>
-*IDADE:* 18 anos.<br/>
-*GÊNERO:* Masculino.<br/>
-*OCUPAÇÃO:* Graduando Engenharia de Produção (segundo período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+**NOME:** Kaio Vitor Pereira de Castro.<br/>
+**IDADE:** 18 anos.<br/>
+**GÊNERO:** Masculino.<br/>
+**OCUPAÇÃO:** Graduando Engenharia de Produção (segundo período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 
 **3.3 -Usuário 3  / Paticipante 3(P3):**<br/>
-*NOME:* Lenilson Marchão Carvalho.<br/>
-*IDADE:* 27 anos.<br/>
-*GÊNERO:* Masculino.<br/>
-*OCUPAÇÃO:* Graduando Engenharia de Produção (sexto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+**NOME:** Lenilson Marchão Carvalho.<br/>
+**IDADE:** 27 anos.<br/>
+**GÊNERO:** Masculino.<br/>
+**OCUPAÇÃO:** Graduando Engenharia de Produção (sexto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 
 **3.4 -Usuário 4 / Paticipante 4(P4):**<br/>
-*NOME:* Jany Felix Rodrigues.<br/>
-*IDADE:* 19 anos.<br/>
-*GÊNERO:* Feminino.<br/>
-*OCUPAÇÃO:* Graduando Engenharia de Produção (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+**NOME:** Jany Felix Rodrigues.<br/>
+**IDADE:** 19 anos.<br/>
+**GÊNERO:** Feminino.<br/>
+**OCUPAÇÃO:** Graduando Farmácia (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 
 ***4. Métricas:*** Foi montada uma tabela para cada tarefa, com o intuito de assim, o avaliador conseguir avaliar o usuário de maneira mais organizada, nomeando os usuários por números como: P1, P2, P3 e P4. Além disso, as tabelas foram divididas em cinco tópicos: participante, tempo gasto, número de erros, tentativas e solicitação de ajuda.<br/>
 
 **Participante =** A ordem dos participantes foi de acordo com a chegada dos indivíduos.<br/>
-**Tempo gasto =** Foi cronometrado cada tarefa que o usuário realizou ou tentou realizar.<br/>
-**Números de erros =** Anotado conforme o decorrer da interação do ususário com o site.<br/>
-**Tentativas =** O participante poderia tentar quantas vezes ele quisesse para realizar as tarefas ou até se cansar.<br/>
-**Solicitação de ajuda =** Anotado com "sim" ou "não" se no caso o participante requeriu a ajuda do avaliador.<br/>
+**Tempo gasto =** O tempo que cada participante realizou ou tentou realizar cada tarefa foi creonometrado.<br/>
+**Números de erros =** Os erros foram registrados conforme o decorrer da interação do ususário com o site.<br/>
+**Tentativas =** Os participantes poderiam tentar quantas vezes quisessem para realizar as tarefas ou até desistirem.<br/>
+**Solicitação de ajuda =** Anotado com "sim" ou "não" se o participante pediu ajuda ao avaliador.<br/>
 
 ****Exemplo:****<br/>
 
@@ -48,7 +50,8 @@
 
 
 ## Preparação:<br/>
-O teste de usabilidade foi realizado na residência do(a) avaliador(a) (um ambiente calmo e arejado para recepção dos usuários). Com o uso de um Notebook e um smartphone fornecido pelo(a) avaliador(a), foi possível realizar o teste de usabilidade da interação dos usuários com o site Aliexpress. O recrutamento foi feito pelo avaliador, o qual recrutou conhecidos (amigos ou familiares). Todos os participantes aceitaram e assinaram um termo de consentimento, que declarava qual foi o objetivo do teste e que suas informações não seriam divulgadas. Foi aplicada uma entrevista pré-teste, para identificar o perfil dos participantes, e pós-teste, para identificar uma opinião geral sobre o uso do site. A avaliação contou com a participação de quatro usuários, que se encaixavam no perfil criado e o suficiente para coletar os dados necessários.<br/>
+O teste de usabilidade foi realizado na residência do avaliador(um ambiente calmo e arejado para recepção dos usuários). Com o uso de um Notebook e um smartphone fornecido pelo avaliador, foi possível realizar o teste de usabilidade da interação dos usuários com o site Aliexpress. O recrutamento foi feito pelo avaliador, o qual recrutou conhecidos (amigos ou familiares), ambos universitários. Todos os participantes aceitaram e assinaram um termo de consentimento, que declarava qual foi o objetivo do teste e que suas informações não seriam divulgadas. Foi aplicada uma entrevista pré-teste, para identificar o perfil dos participantes, e pós-teste, para identificar uma opinião geral sobre o uso do site. A avaliação contou com a participação de quatro usuários, que se encaixavam no perfil criado e o suficiente para coletar os dados necessários.<br/>
+
 
 ## Teste Piloto:<br>
 ***Tarefas Propostas:***<br/>
@@ -62,7 +65,7 @@ O teste de usabilidade foi realizado na residência do(a) avaliador(a) (um ambie
 8. Escolher Método de Pagamento<br/>
 9. Finalizar Compra<br/>
 10. Adicionar 3 Itens no Carrinho<br/>
-11. Remover 3 Itens do Carrinho<br>
+
 
 **Execução das Tarefas e Resultados**<br/>
 
@@ -117,10 +120,6 @@ O teste de usabilidade foi realizado na residência do(a) avaliador(a) (um ambie
 *Problemas Encontrados:* Nenhum.<br/>
 *Conclusão:* O processo de adicionar itens ao carrinho foi eficiente e sem complicações.<br/>
 
-***11. Remover 3 Itens do Carrinho***<br/>
-*Observação:* Dentro da página do carrinho, a remoção dos itens foi fácil, com um botão “Remover” disponível ao lado de cada produto.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* A remoção de itens foi simples e direta, atendendo às expectativas.<br/>
 
 **Erros Inesperados e Soluções**<br/>
 
@@ -129,6 +128,7 @@ O teste de usabilidade foi realizado na residência do(a) avaliador(a) (um ambie
 
 **Dificuldade em ver taxas e frete rapidamente:** As taxas e o frete não eram exibidos de imediato nos resultados da pesquisa. Isso obrigou o usuário a clicar em cada produto para verificar os custos totais.<br/>
 **Solução sugerida:** Exibir informações de taxas e frete diretamente nos resultados da pesquisa, permitindo comparações mais rápidas.<br/>
+
 
 ## Execução: <br/>
 A priore, os participantes tiveram que assinar o termo de consentimento, o teste foi realizado em dois dias diferentes, nesse contexto, dois usuários participaram no dia 11/10 e os outros dois usuários participaram no dia 12/10. O teste foi executado em dois dispositivos diferentes (celular e notebook), com os participantes sendo observados o tempo todo pelo (a) avaliador(a), as orientações foram pequenas dicas de como executar a tarefa mas se no caso o participante pedisse ajuda, a seguir, será demonstrado algumas anotações do comportamento e comentário dos usuários:<br/>
@@ -232,14 +232,6 @@ A priore, os participantes tiveram que assinar o termo de consentimento, o teste
 |     P3       | 45 segundos  |        0        |      1     |         Não          |
 |     P4       | 124 segundos |        1        |      2     |         Sim          |
 
-***11. Remova 3 itens do carrinho***<br>
-
-| PARTICIPANTE | TEMPO GASTO  | NÚMERO DE ERROS | TENTATIVAS | SOLICITAÇÃO DE AJUDA |
-|--------------|--------------|-----------------|------------|----------------------|
-|     P1       | 60 segundos  |        1        |      3     |         Sim          |
-|     P2       | 26 segundos  |        0        |      1     |         Não          |
-|     P3       | 16 segundos  |        0        |      1     |         Não          |
-|     P4       | 58 segundos  |        0        |      1     |         Não          |
 
 **Resultados:**<br/>
 
@@ -328,41 +320,32 @@ Resultado: (14 + 25 + 26 + 29) / 4 = 94s = 1:34.<br/>
 
 Resultado: (120 + 25 + 45 + 124) / 4 = 314s = 5:14.<br/>
 
-**•	Remova 3 itens do carrinho**<br/>
-- P1: 60 segundos<br/>
-- P2: 26 segundos<br/>
-- P3: 16 segundos<br/>
-- P4: 58 segundos<br/>
-
-Resultado: (60 + 26 + 16 + 58) / 4 = 160s = 2:40.<br/>
-
 
 ***Taxa de Sucesso da Tarefa (TSR):***<br/>
 
-
 **P1:**<br/>
-Número de tarefas concluídas com sucesso: 11<br/>
-Total de tentativas: 22<br/>
+Número de tarefas concluídas com sucesso: 10<br/>
+Total de tentativas: 19<br/>
 
-Resultado: 11 / 22 = 0,5 x 100 = 50%<br/>
+Resultado: 10 / 19 = 0,52 x 100 = 52%<br/>
 
 **P2:**<br/>
-Número de tarefas concluídas com sucesso: 9<br/>
-Total de tentativas: 16<br/>
+Número de tarefas concluídas com sucesso:8<br/>
+Total de tentativas: 15<br/>
 
-Resultado: 9 / 16 = 0, 56 x 100 = 56%<br/>
+Resultado: 8 / 15 = 0, 53 x 100 = 53%<br/>
 
 **P3:**<br/>
-Número de tarefas concluídas com sucesso: 11<br/>
-Total de tentativas: 14<br/>
+Número de tarefas concluídas com sucesso: 10<br/>
+Total de tentativas: 13<br/>
 
-Resultado: 11 / 14 = 0,78 x 100 = 78%<br/>
+Resultado: 10 / 13 = 0,76 x 100 = 76%<br/>
 
 **P4:**<br/>
-Número de tarefas concluídas com sucesso: 10<br/>
-Total de tentativas: 24<br/>
+Número de tarefas concluídas com sucesso: 9<br/>
+Total de tentativas: 23<br/>
 
-Resultado: 10 / 24 = 0,41 x 100 = 41%<br/>
+Resultado: 9 / 23 = 0,39 x 100 = 39%<br/>
 
 
 ***Taxa de Erro do Usuário (UER):***<br/>
@@ -457,15 +440,6 @@ P4: 2 erros.<br/>
 Resultado: (3 + 0 + 0 + 2) / (7 x 5) = 5 / 35 = 0,14 x 100 = 14%<br/>
 
 
-**•	Remova 3 itens do carrinho**<br/>
-P1: 1 erros.<br/>
-P2: 0 erros.<br/>
-P3: 0 erros.<br/>
-P4: 0 erros.<br/>
-
-Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
-
-
 ## Dados qualitativos:<br/> 
 
 ***PARTICIPANTE 1***<br/>
@@ -482,7 +456,6 @@ Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
 |Escolher Método de Pagamento                           |Não teve dificuldade          |Diversidade de opções       |
 |Finalizar Compra                                       |Não teve dificuldade          |Checkout rápido e direto    |
 |Adicionar 3 Itens no Carrinho                          |Interface confusa ao adicionar|Feedback claro e rápido     |
-|Remover 3 Itens do Carrinho                            |Dificuldade em remover itens  |Remoção de itens intuitiva  |
 
 
 ***PARTICIPANTE 2***<br/>
@@ -499,7 +472,6 @@ Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
 |Escolher Método de Pagamento                           |Poucas opções de pagamento     |Diversidade de opções       |
 |Finalizar Compra                                       |Não teve dificuldade           |Checkout rápido e direto    |
 |Adicionar 3 Itens no Carrinho                          |Não teve dificuldade           |Feedback claro e rápido     |
-|Remover 3 Itens do Carrinho                            |Não teve dificuldade           |Remoção de itens intuitiva  |
 
 
 ***PARTICIPANTE 3***<br/>
@@ -516,7 +488,6 @@ Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
 |Escolher Método de Pagamento                           |Não teve dificuldade          |Diversidade de opções       |
 |Finalizar Compra                                       |Não teve dificuldade          |Checkout rápido e direto    |
 |Adicionar 3 Itens no Carrinho                          |Não teve dificuldade          |Feedback claro e rápido     |
-|Remover 3 Itens do Carrinho                            |Não teve dificuldade          |Remoção de itens intuitiva  |
 
 
 ***PARTICIPANTE 4***<br/>
@@ -533,11 +504,11 @@ Resultado: (1 + 0 + 0 + 0) / (6 x 1) = 1 / 6 = 0,16 x 100 = 16%<br/>
 |Escolher Método de Pagamento                           |Dificuldade em escolher        |Diversidade de opções       |
 |Finalizar Compra                                       |Não teve dificuldade           |Checkout rápido e direto    |
 |Adicionar 3 Itens no Carrinho                          |Interface confusa ao adicionar |Feedback claro e rápido     |
-|Remover 3 Itens do Carrinho                            |Não teve dificuldade           |Remoção de itens intuitiva  |
 
 
 ## Conclusão:<br/> 
 O teste de usabilidade do site AliExpress apontou pontos fortes e áreas de melhoria. Os usuários apreciam a ampla variedade de produtos e os preços acessíveis, mas encontram dificuldades na navegação, especialmente ao explorar categorias e subcategorias. A pesquisa de produtos, embora robusta, poderia ser aprimorada com filtros mais intuitivos e precisos. O layout, embora visualmente agradável, pode sobrecarregar novos usuários com informações excessivas na tela inicial. Além disso, o processo de checkout foi descrito como confuso, especialmente no momento de aplicar cupons ou selecionar métodos de pagamento. Simplificar essas etapas e oferecer uma navegação mais clara pode melhorar a experiência geral e aumentar a satisfação do cliente.<br/>
+
 
 ## Referências:<br/>
 João Carlos. GitHub 2024. Disponível em: (https://github.com/JoaoCarlos22/IHC-Evaluation). Acesso em: 12 out.2024.
