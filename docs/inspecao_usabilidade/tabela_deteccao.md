@@ -153,7 +153,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 imagem: [Concientização e padrões] (https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png)<br/>
 2 - Descrição do problema:<br/>
 O sistema não oferece documentação ou ajuda acessível para os usuários resolverem problemas trazendo uma central de ajuda na intuitiva para novos usuários.<br/>
-imagem: 
+imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Ajuda%20e%20documenta%C3%A7%C3%A3o.png)
 
 3 - Descrição do problema:<br/>
 
