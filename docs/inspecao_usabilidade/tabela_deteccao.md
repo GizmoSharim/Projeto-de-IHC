@@ -240,7 +240,7 @@ Imagem: [Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/P
 3 - Descrição do problema:<br/> As informações fornecidas são confusas.<br/>
 Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/3%20-%20Consist%C3%AAncia%20e%20padr%C3%B5es.jpg)
 
-4 - Descrição do problema:<br/> As imagens dos ícones são confusas, por exemplo o das fantasias...um analfabeto (que não sabe ler) não vai saber identificar se é fantasias ou não.<br/>
+4 - Descrição do problema:<br/> Ao clicar nos três pontinhos, o usuário é levado para uma página onde são exibidas imagens de ícones confusas, por exemplo o ícone "fantasia", que não transmite sua informação ou design de forma clara, um analfabeto (que não sabe ler) não vai saber identificar se o ícone é de fantasia ou não.<br/>
 Imagem: [Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/4%20-%20Reconhecer%20ao%20inv%C3%A9s%20de%20relembrar.jpg)
 
 5 - Descrição do problema:<br/> O próprio site dá um certo bug no sistema, com informações anteriores adentrando em cima das informações posteriores.<br/>
