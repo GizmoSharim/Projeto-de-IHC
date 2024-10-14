@@ -3,7 +3,7 @@
 ## Planejamento<br/>
 ***1. Objetivo do teste:*** Avaliar os problemas na interface do Aliexpress.<br/>
 ***2. Técnicas utilizadas:*** Técnica baseada em observação (Thinking Aloud) e Tecnica baseada em perguntas (Feedback).<br/>
-***3. Perfil dos usuários:*** Todas as pessoas de qualquer fachetaria que não tenha deficiência visual e que possam fazer compras.<br/>
+***3. Perfil dos usuários:*** Todas as pessoas de qualquer faixa etária, que não tenham deficiência visual e que possam fazer compras.<br/>
 
 **3.1 -Usuário 1 / Paticipante 1(P1):**<br/>
 *NOME:* Sabrina Leal Amazonas.<br/>
@@ -132,10 +132,10 @@ O teste de usabilidade foi realizado na residência do(a) avaliador(a) (um ambie
 
 ## Execução: <br/>
 A priore, os participantes tiveram que assinar o termo de consentimento, o teste foi realizado em dois dias diferentes, nesse contexto, dois usuários participaram no dia 11/10 e os outros dois usuários participaram no dia 12/10. O teste foi executado em dois dispositivos diferentes (celular e notebook), com os participantes sendo observados o tempo todo pelo (a) avaliador(a), as orientações foram pequenas dicas de como executar a tarefa mas se no caso o participante pedisse ajuda, a seguir, será demonstrado algumas anotações do comportamento e comentário dos usuários:<br/>
-O usuário 1 demorou bastante para realizar a primeira tarefa, pois esqueceu da senha do seu e-mail, o mesmo(a) comentou que o sistema é muito lento para a parte de registrar. Na parte de login, o processo foi bem lento (características do site). A princípio por não saber o que significa “filtrar”, o usuário teve dificuldades na tarefa de “filtrar os produtos”. Além disso, o mesmo reclamou várias vezes de não ser explicito a opção de adicionar mais de um item ao carrinho.
-O usuário 2 teve dificuldades de pesquisar o produto, o mesmo desistiu de tentar realizar a tarefa 6 (filtrar produtos do Brasil) e  comentou “...esse site é bem pornográfico”, “...não tem nenhuma segurança...” ao clicar em um certo produto e ser levado a outra página, o mesmo achou a forma de pagamento muito lenta e trabalhosa. Além disso, o usuário teve dificuldades de adicionar itens ao carrinho pois as informações estavam em inglês.
-O usuário 3 teve dificuldades logo na primeira tarefa, pois as informações expostas ao usuário não são bem especificadas, o mesmo teve dificuldades de pesquisar produtos pois as informações estavam em russo e comentou que há muita informação na área de “forma de pagamento”.
-O usuário 4 teve dificuldades na maioria das tarefas, a mesma achou que as informações fornecidas do site são no entanto, muito confusas e de baixa segurança, e que segundo o usuário 4, ao decorrer das tentativas de execução das tarefas o site estava sendo muito “...complicado”, “-não sei onde então as informações e não sei se estou fazendo da maneira certa essa tarefa”, assim disse o usuário.
+O usuário 1 demorou bastante para realizar a primeira tarefa, pois esqueceu da senha do seu e-mail, o mesmo(a) comentou que o sistema é muito lento para a parte de registrar. Na parte de login, o processo foi bem lento (características do site). A princípio por não saber o que significa “filtrar”, o usuário teve dificuldades na tarefa de “filtrar os produtos”. Além disso, o mesmo reclamou várias vezes de não ser explicito a opção de adicionar mais de um item ao carrinho.<br/>
+O usuário 2 teve dificuldades de pesquisar o produto, o mesmo desistiu de tentar realizar a tarefa 6 (filtrar produtos do Brasil) e  comentou “...esse site é bem pornográfico”, “...não tem nenhuma segurança...” ao clicar em um certo produto e ser levado a outra página, o mesmo achou a forma de pagamento muito lenta e trabalhosa. Além disso, o usuário teve dificuldades de adicionar itens ao carrinho pois as informações estavam em inglês.<br/>
+O usuário 3 teve dificuldades logo na primeira tarefa, pois as informações expostas ao usuário não são bem especificadas, o mesmo teve dificuldades de pesquisar produtos pois as informações estavam em russo e comentou que há muita informação na área de “forma de pagamento”.<br/>
+O usuário 4 teve dificuldades na maioria das tarefas, a mesma achou que as informações fornecidas do site são no entanto, muito confusas e de baixa segurança, e que segundo o usuário 4, ao decorrer das tentativas de execução das tarefas o site estava sendo muito “...complicado”, “-não sei onde então as informações e não sei se estou fazendo da maneira certa essa tarefa”, assim disse o usuário.<br/>
 
 ### Análise dos resultados<br/>
 
