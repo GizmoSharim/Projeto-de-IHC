@@ -158,7 +158,9 @@ O sistema não oferece documentação ou ajuda acessível para os usuários reso
 imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Ajuda%20e%20documenta%C3%A7%C3%A3o.png)
 
 3 - Descrição do problema:<br/>
-O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.
+O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.<br/>
+imagem: [Reconhecimento ao invés de memorização]
+
 4 - Descrição do problema:<br/>
 
 
