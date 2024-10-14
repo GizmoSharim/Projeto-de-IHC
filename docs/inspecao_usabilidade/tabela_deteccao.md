@@ -159,7 +159,7 @@ imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/b
 
 3 - Descrição do problema:<br/>
 O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.<br/>
-imagem: [Reconhecimento ao invés de memorização]
+imagem: [Reconhecimento ao invés de memorização](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Reconhecimento%20ao%20inv%C3%A9s%20de%20memoriza%C3%A7%C3%A3o.png).
 
 4 - Descrição do problema:<br/>
 
