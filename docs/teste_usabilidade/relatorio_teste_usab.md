@@ -1,34 +1,34 @@
 ### A6
 
-### Teste de Usabilidade<br/>
+# Teste de Usabilidade<br/>
 
 ## Planejamento<br/>
 ***1. Objetivo do teste:*** Avaliar os problemas na interface do e-comerce.<br/>
 ***2. Técnicas utilizadas:*** Técnica baseada em observação (Thinking Aloud) e Tecnica baseada em perguntas (Feedback).<br/>
 ***3. Perfil dos usuários:*** Todas as pessoas de qualquer faixa etária, que não tenham deficiência visual e que possam fazer compras.<br/>
 
-**3.1 -Usuário 1 / Participante 1 (P1):**<br/>
+**3.1 - Usuário 1 / Participante 1 (P1):**<br/>
 **NOME:** Sabrina Leal Amazonas.<br/>
 **IDADE:** 21 anos.<br/>
 **GÊNERO:** Feminino.<br/>
 **OCUPAÇÃO:** Graduando Sistemas de Informação (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 [Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_1.jpg)
 
-**3.2 -Usuário 2 / Participante 2 (P2):**<br/>
+**3.2 - Usuário 2 / Participante 2 (P2):**<br/>
 **NOME:** Kaio Vitor Pereira de Castro.<br/>
 **IDADE:** 18 anos.<br/>
 **GÊNERO:** Masculino.<br/>
 **OCUPAÇÃO:** Graduando Engenharia de Produção (segundo período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 [Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_2.jpg)
 
-**3.3 -Usuário 3  / Participante 3 (P3):**<br/>
+**3.3 - Usuário 3  / Participante 3 (P3):**<br/>
 **NOME:** Lenilson Marchão Carvalho.<br/>
 **IDADE:** 27 anos.<br/>
 **GÊNERO:** Masculino.<br/>
 **OCUPAÇÃO:** Graduando Engenharia de Produção (sexto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
 [Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_3.jpg)
 
-**3.4 -Usuário 4 / Participante 4 (P4):**<br/>
+**3.4 - Usuário 4 / Participante 4 (P4):**<br/>
 **NOME:** Jany Felix Rodrigues.<br/>
 **IDADE:** 19 anos.<br/>
 **GÊNERO:** Feminino.<br/>
@@ -37,11 +37,15 @@
 
 ***4. Métricas:*** Foi montada uma tabela para cada tarefa, com o intuito de assim, o avaliador conseguir avaliar o usuário de maneira mais organizada, nomeando os usuários por números como: P1, P2, P3 e P4. Além disso, as tabelas foram divididas em cinco tópicos: participante, tempo gasto, número de erros, tentativas e solicitação de ajuda.<br/>
 
-**Participante =** A ordem dos participantes foi de acordo com a chegada dos indivíduos.<br/>
-**Tempo gasto =** O tempo que cada participante realizou ou tentou realizar cada tarefa foi creonometrado.<br/>
-**Números de erros =** Os erros foram registrados conforme o decorrer da interação do ususário com o site.<br/>
-**Tentativas =** Os participantes poderiam tentar quantas vezes quisessem para realizar as tarefas ou até desistirem.<br/>
-**Solicitação de ajuda =** Anotado com "sim" ou "não" se o participante pediu ajuda ao avaliador.<br/>
+**Participante:**<br/> A ordem dos participantes foi de acordo com a chegada dos indivíduos.<br/>
+
+**Tempo gasto:**<br/> O tempo que cada participante realizou ou tentou realizar cada tarefa foi creonometrado.<br/>
+
+**Números de erros:**<br/>Os erros foram registrados conforme o decorrer da interação do ususário com o site.<br/>
+
+**Tentativas:**<br/> Os participantes poderiam tentar quantas vezes quisessem para realizar as tarefas ou até desistirem.<br/>
+
+**Solicitação de ajuda:**<br/> Anotado com "sim" ou "não" se o participante pediu ajuda ao avaliador.<br/>
 
 ****Exemplo:****<br/>
 
@@ -71,61 +75,84 @@ O teste de usabilidade foi realizado na residência do avaliador(um ambiente cal
 10. Adicionar 3 Itens no Carrinho<br/>
 
 
-**Execução das Tarefas e Resultados**<br/>
+**- Execução das Tarefas e Resultados**<br/>
 
 ***1. Registrar***<br/>
-*Observação:* A opção de registro estava clara e fácil de encontrar na página inicial. O processo de registro foi rápido, solicitando apenas informações básicas como e-mail, nome e senha.<br/>
-*Problemas Encontrados:* Nenhum problema inesperado.<br/>
-*Conclusão:* A plataforma atendeu às expectativas, com um processo de registro simples e eficiente.<br/>
+*Observação:*<br/> A opção de registro estava clara e fácil de encontrar na página inicial. O processo de registro foi rápido, solicitando apenas informações básicas como e-mail, nome e senha.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum problema inesperado.<br/>
+
+*Conclusão:*<br/> A plataforma atendeu às expectativas, com um processo de registro simples e eficiente.<br/>
 
 ***2. Logar***<br/>
-*Observação:* Após o registro, a tela de login foi apresentada de forma intuitiva. Inserir o e-mail e senha foi direto, e o acesso à conta ocorreu sem complicações.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* O processo de login foi fácil e ágil, sem atrasos ou dificuldades.<br/>
+*Observação:*<br/> Após o registro, a tela de login foi apresentada de forma intuitiva. Inserir o e-mail e senha foi direto, e o acesso à conta ocorreu sem complicações.<br/>
+
+*Problemas Encontrados:*<br/>Nenhum.<br/>
+
+*Conclusão:*<br/> O processo de login foi fácil e ágil, sem atrasos ou dificuldades.<br/>
 
 ***3. Escolher Produto***<br/>
-*Observação:* Utilizando a barra de pesquisa, um item foi escolhido rapidamente. A interface apresentava as categorias de produto de maneira clara e com imagens que facilitavam a escolha.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* A navegação e escolha de produtos são intuitivas e atendem às expectativas de usabilidade.<br/>
+*Observação:*<br/> Utilizando a barra de pesquisa, um item foi escolhido rapidamente. A interface apresentava as categorias de produto de maneira clara e com imagens que facilitavam a escolha.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum.<br/>
+
+*Conclusão:*<br/> A navegação e escolha de produtos são intuitivas e atendem às expectativas de usabilidade.<br/>
 
 ***4. Verificar se o Produto é do Brasil ou de Fora***<br/>
-*Observação:* Ao acessar a página do produto, há uma indicação de "Envio" que menciona o país de origem do item. Para produtos brasileiros, o sistema exibe "Brasil" como país de envio.<br/>
-*Problemas Encontrados:* O local de origem do produto estava visível, porém, essa informação não é imediatamente destacada, sendo necessário olhar com atenção para localizá-la.<br/>
-*Conclusão:* A informação estava disponível, mas poderia ser mais evidente.<br/>
+*Observação:*<br/> Ao acessar a página do produto, há uma indicação de "Envio" que menciona o país de origem do item. Para produtos brasileiros, o sistema exibe "Brasil" como país de envio.<br/>
+
+*Problemas Encontrados:*<br/> O local de origem do produto estava visível, porém, essa informação não é imediatamente destacada, sendo necessário olhar com atenção para localizá-la.<br/>
+
+*Conclusão:*<br/> A informação estava disponível, mas poderia ser mais evidente.<br/>
 
 ***5. Pesquisar Produto***<br/>
-*Observação:* Usando a barra de pesquisa, foi feita a busca por um produto específico, como "Tênis masculino". O resultado foi exibido rapidamente com várias opções relevantes.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* O sistema de busca funcionou de acordo com as expectativas, fornecendo resultados precisos e relevantes.<br/>
+*Observação:*<br/> Usando a barra de pesquisa, foi feita a busca por um produto específico, como "Tênis masculino". O resultado foi exibido rapidamente com várias opções relevantes.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum.<br/>
+
+*Conclusão:*<br/> O sistema de busca funcionou de acordo com as expectativas, fornecendo resultados precisos e relevantes.<br/>
 
 ***6. Filtrar Produtos do Brasil***<br/>
-*Observação:* No lado esquerdo da página de resultados de pesquisa, havia um filtro para selecionar produtos com envio do Brasil. Ao aplicar o filtro, os resultados foram atualizados corretamente.<br/>
-*Problemas Encontrados:* Um pequeno atraso na atualização da página ao aplicar o filtro, mas nada significativo.<br/>
-*Conclusão:* O filtro de localização foi eficiente, embora pudesse ser ligeiramente mais rápido.<br/>
+*Observação:*<br/> No lado esquerdo da página de resultados de pesquisa, havia um filtro para selecionar produtos com envio do Brasil. Ao aplicar o filtro, os resultados foram atualizados corretamente.<br/>
+
+*Problemas Encontrados:*<br/> Um pequeno atraso na atualização da página ao aplicar o filtro, mas nada significativo.<br/>
+
+*Conclusão:*<br/> O filtro de localização foi eficiente, embora pudesse ser ligeiramente mais rápido.<br/>
 
 ***7. Encontrar o Preço Mais Barato Considerando Taxa e Frete***<br/>
-*Observação:* O preço de cada produto era exibido claramente. No entanto, o cálculo das taxas e frete só foi possível ao entrar na página de detalhes do produto. Algumas variações de preço entre diferentes vendedores foram notadas.<br/>
-*Problemas Encontrados:* A exibição de taxas e frete não é imediata. É necessário entrar em cada item para verificar as taxas aplicáveis.<br/>
-*Solução:* Comparar manualmente os preços de diferentes vendedores e incluir o frete nas comparações.<br/>
-*Conclusão:* A plataforma poderia melhorar a exibição de preços com taxas e frete no nível de listagem, mas com o método atual, é possível encontrar a melhor oferta.<br/>
+*Observação:*<br/> O preço de cada produto era exibido claramente. No entanto, o cálculo das taxas e frete só foi possível ao entrar na página de detalhes do produto. Algumas variações de preço entre diferentes vendedores foram notadas.<br/>
+
+*Problemas Encontrados:*<br/> A exibição de taxas e frete não é imediata. É necessário entrar em cada item para verificar as taxas aplicáveis.<br/>
+
+*Solução:*<br/> Comparar manualmente os preços de diferentes vendedores e incluir o frete nas comparações.<br/>
+
+*Conclusão:*<br/> A plataforma poderia melhorar a exibição de preços com taxas e frete no nível de listagem, mas com o método atual, é possível encontrar a melhor oferta.<br/>
 
 ***8. Escolher Método de Pagamento***<br/>
-*Observação:* Durante o processo de finalização de compra, várias opções de pagamento foram apresentadas (cartão de crédito, boleto, etc.). A escolha do método foi clara e intuitiva.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* O processo de escolha de método de pagamento foi simples e direto.<br/>
+*Observação:*<br/> Durante o processo de finalização de compra, várias opções de pagamento foram apresentadas (cartão de crédito, boleto, etc.). A escolha do método foi clara e intuitiva.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum.<br/>
+
+*Conclusão:*<br/> O processo de escolha de método de pagamento foi simples e direto.<br/>
 
 ***9. Finalizar Compra***<br/>
-*Observação:* Após escolher o método de pagamento, o usuário foi redirecionado para a tela final, onde era possível revisar as informações de compra e confirmar o pedido.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* O processo de finalização da compra atendeu plenamente às expectativas, sem falhas.<br/>
+*Observação:*<br/> Após escolher o método de pagamento, o usuário foi redirecionado para a tela final, onde era possível revisar as informações de compra e confirmar o pedido.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum.<br/>
+
+*Conclusão:*<br/> O processo de finalização da compra atendeu plenamente às expectativas, sem falhas.<br/>
 
 ***10. Adicionar 3 Itens no Carrinho***<br/>
-*Observação:* A adição de três itens no carrinho foi simples. Cada vez que um item era adicionado, o sistema atualizava o número de itens no ícone do carrinho.<br/>
-*Problemas Encontrados:* Nenhum.<br/>
-*Conclusão:* O processo de adicionar itens ao carrinho foi eficiente e sem complicações.<br/>
+*Observação:*<br/> A adição de três itens no carrinho foi simples. Cada vez que um item era adicionado, o sistema atualizava o número de itens no ícone do carrinho.<br/>
+
+*Problemas Encontrados:*<br/> Nenhum.<br/>
+
+*Conclusão:*<br/> O processo de adicionar itens ao carrinho foi eficiente e sem complicações.<br/>
 
 
-**Erros Inesperados e Soluções**<br/>
+
+
+**- Erros Inesperados e Soluções**<br/>
 
 **Atraso na aplicação de filtros:** Ao aplicar o filtro de produtos do Brasil, houve um pequeno atraso na atualização da lista. Esse atraso foi mínimo, mas poderia ser mais ágil.<br/>
 **Solução sugerida:** Melhorar a responsividade do sistema ao aplicar filtros.<br/>
@@ -135,12 +162,15 @@ O teste de usabilidade foi realizado na residência do avaliador(um ambiente cal
 
 
 ## Execução: <br/>
-A priore, os participantes tiveram que assinar o termo de consentimento, o teste foi realizado em dois dias diferentes, nesse contexto, dois usuários participaram no dia 11/10 e os outros dois usuários participaram no dia 12/10. O teste foi executado em dois dispositivos diferentes (celular e notebook), com os participantes sendo observados o tempo todo pelo (a) avaliador(a), as orientações foram pequenas dicas de como executar a tarefa mas só se no caso o participante pedisse ajuda, a seguir, será demonstrado algumas anotações do comportamento e comentário dos usuários:<br/>
+A priore, os participantes tiveram que assinar o termo de consentimento, o teste foi realizado em dois dias diferentes, nesse contexto, dois usuários participaram no dia 11/10 e os outros dois usuários participaram no dia 12/10. O teste foi executado em dois dispositivos diferentes (celular e notebook), com os participantes sendo observados o tempo todo pelo (a) avaliador(a). As orientações foram pequenas dicas de como executar a tarefa, mas só no caso do participante solicitar ajuda, em seguida, irão ser apresentadas algumas anotações do comportamento e os comentários dos usuários:<br/>
 
-(P1) O usuário 1 demorou bastante para realizar a primeira tarefa, pois esqueceu da senha do seu e-mail, o mesmo(a) comentou que o sistema é muito lento para a parte de registrar. Na parte de login, o processo foi bem lento (características do site). A princípio por não saber o que significa “filtrar”, o usuário teve dificuldades na tarefa de “filtrar os produtos”. Além disso, o mesmo reclamou várias vezes de não ser explicito a opção de adicionar mais de um item ao carrinho.<br/>
-(P2) O usuário 2 teve dificuldades de pesquisar o produto, o mesmo desistiu de tentar realizar a tarefa 6 (filtrar produtos do Brasil) e  comentou “...esse site é bem pornográfico”, “...não tem nenhuma segurança...” ao clicar em um certo produto e ser levado a outra página, o mesmo achou a forma de pagamento muito lenta e trabalhosa. Além disso, o usuário teve dificuldades de adicionar itens ao carrinho pois as informações estavam em inglês.<br/>
-(P3) O usuário 3 teve dificuldades logo na primeira tarefa, pois as informações expostas ao usuário não são bem especificadas, o mesmo teve dificuldades de pesquisar produtos pois as informações estavam em russo e comentou que há muita informação na área de “forma de pagamento”.<br/>
-(P4) O usuário 4 teve dificuldades na maioria das tarefas, a mesma achou que as informações fornecidas do site são no entanto, muito confusas e de baixa segurança, e que segundo o usuário 4, ao decorrer das tentativas de execução das tarefas o site estava sendo muito “...complicado”, “-não sei onde então as informações e não sei se estou fazendo da maneira certa essa tarefa”, assim disse o usuário.<br/>
+**P1:** O usuário 1 demorou bastante para realizar a primeira tarefa, pois esqueceu da senha do seu e-mail, o mesmo(a) comentou que o sistema é muito lento para a parte de registrar. Na parte de login, o processo foi bem lento (características do site). A princípio por não saber o que significa “filtrar”, o usuário teve dificuldades na tarefa de “filtrar os produtos”. Além disso, o mesmo reclamou várias vezes de não ser explicito a opção de adicionar mais de um item ao carrinho.<br/>
+
+**P2:** O usuário 2 teve dificuldades de pesquisar o produto, o mesmo desistiu de tentar realizar a tarefa 6 (filtrar produtos do Brasil) e  comentou “...esse site é bem pornográfico”, “...não tem nenhuma segurança...” ao clicar em um certo produto e ser levado a outra página, o mesmo achou a forma de pagamento muito lenta e trabalhosa. Além disso, o usuário teve dificuldades de adicionar itens ao carrinho pois as informações estavam em inglês.<br/>
+
+**P3:** O usuário 3 teve dificuldades logo na primeira tarefa, pois as informações expostas ao usuário não são bem especificadas, o mesmo teve dificuldades de pesquisar produtos pois as informações estavam em russo e comentou que há muita informação na área de “forma de pagamento”.<br/>
+
+**P4:** O usuário 4 teve dificuldades na maioria das tarefas, a mesma achou que as informações fornecidas do site são no entanto, muito confusas e de baixa segurança, e que segundo o usuário 4, ao decorrer das tentativas de execução das tarefas o site estava sendo muito “...complicado”, “-não sei onde então as informações e não sei se estou fazendo da maneira certa essa tarefa”, assim disse o usuário.<br/>
 
 ### Análise dos resultados<br/>
 
