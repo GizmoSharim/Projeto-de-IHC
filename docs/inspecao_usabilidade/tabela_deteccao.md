@@ -235,7 +235,7 @@ Imagem: [Design estético e minimalista](https://github.com/GizmoSharim/Projeto-
 Imagem: [Design estético e minimalista](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/1%20-%20Design%20est%C3%A9tico%20e%20minimalista.jpg)
 
 2 - Descrição do problema:<br/> Abas como essas que quando precionadas, não há explicação para onde o usuário estar sendo direcionado.<br/>
-Imagem: [Reconhecimento ao invés de relembrar](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/2%20-%20Reconhecer%20ao%20inv%C3%A9s%20de%20relembrar.jpg)
+Imagem: [Reconhecimento ao invés de relembrar] (https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/2%20-%20Reconhecer%20ao%20inv%C3%A9s%20de%20relembrar.jpg).
 
 3 - Descrição do problema:<br/> As informações fornecidas são confusas.<br/>
 Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA6/3%20-%20Consist%C3%AAncia%20e%20padr%C3%B5es.jpg)
