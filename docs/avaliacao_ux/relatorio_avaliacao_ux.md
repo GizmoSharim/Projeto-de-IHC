@@ -74,7 +74,7 @@ Wagner, J. (2022). Interaction to next paint (INP). WEB.DEV. Disponível em:  <f
 
 Walton, P. 2023. First Contentful Paint (FCP). Disponível em: <https://web.dev/articles/fcp?hl=pt-br>. Acesso em: 13 out 2024.
 
-Walton, P.; Mihajlija, M. 2023. Cumulative Layout Shift (CLS). Disponível em: <https://web.dev/articles/cls?hl=pt-br#what-is-a-good-cls-score>. Acesso em: 12 maio out 2024.
+Walton, P.; Mihajlija, M. 2023. Cumulative Layout Shift (CLS). Disponível em: <https://web.dev/articles/cls?hl=pt-br#what-is-a-good-cls-score>. Acesso em: 12 out 2024.
 
 Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: fonte: <https://web.dev/articles/lcp>. Acesso em: 11/10/2024
 
