@@ -124,7 +124,7 @@ Imagem: [Visibilidade do status do sistema](https://github.com/GizmoSharim/Proje
 
 13 - Descrição do problema:<br/>
 Quando as pesquisas são realizadas, os resultados não correspondem totalmente com a pesquisa do usuário, por exemplo, a pesquisa é um perfume da natura, mas o resultado mostra uma panela de pressão junto com o perfume que de outra marca.<br/>
-Imagem: [Flexibilidade e eficiência de uso ](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/13%20-%20Flexibilidade%20e%20efici%C3%AAncia%20de%20uso.jpg)
+Imagem: [Flexibilidade e eficiência de uso ](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/13%20-%20Flexibilidade%20e%20efici%C3%AAncia%20de%20uso.jpg)<br/>
 Imagem 2: [Flexibilidade e eficiência de uso ](https://github.com/GizmoSharim/Projeto-de-IHC/blob/22e3c17483b43c66bddbfdff5c2d4d39265340f7/docs/inspecao_usabilidade/imagens/imagens_inspecaoA2/13.2%20-%20Flexibilidade%20e%20efici%C3%AAncia%20de%20uso.jpg)
 
 14 - Descrição do problema:<br/>
@@ -150,7 +150,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 |  4 |Compatibilidade do sistema com o mundo real|      3       | 2 minutos      |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. <br/>
-imagem: [Concientização e padrões] (https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png).
+imagem: [Concientização e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png).
 <br/>
 
 2 - Descrição do problema:<br/>
