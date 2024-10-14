@@ -11,6 +11,6 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 |  5 |      A1, A2, A6      |         O sistema utiliza ícones sem explicar suas funções, exigindo que o usuário memorize ou deduza suas funcionalidades.              |       Reconhecer ao invés de Relembrar           |            |      
 |  6 |         	A1, A2, A3, A4   |         O sistema apresenta opções, termos ou informações que não fazem sentido no contexto do mundo real.              |       Compatibilidade do Sistema com o Mundo Real|            |      
 |  7 |        A2, A4    |         	O sistema não oferece uma maneira fácil de o usuário retornar à página anterior, limitando sua liberdade de navegação.              |       Controle e Liberdade do Usuário            |            |      
-|  8 |      A2      |                       |       Flexibilidade e Eficiência de Uso          |            |      
+|  8 |      A2      |              A pesquisa retorna resultados irrelevantes, o que frustra o usuário ao não encontrar o que procura.         |       Flexibilidade e Eficiência de Uso          |            |      
 |  9 |        A2, A3    |                       |      Ajuda e Documentação                        |            |      
 
