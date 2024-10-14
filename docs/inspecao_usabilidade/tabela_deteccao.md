@@ -150,7 +150,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 |  4 |Compatibilidade do sistema com o mundo real|      3       | 2 minutos      |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. <br/>
-imagem: [Concientização e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png).
+imagem: [Consistencia e padrões](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png).
 <br/>
 
 2 - Descrição do problema:<br/>
@@ -158,7 +158,7 @@ O sistema não oferece documentação ou ajuda acessível para os usuários reso
 imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png)
 
 3 - Descrição do problema:<br/>
-O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.<br/>
+O sistema não oferece documentação ou suporte facilmente acessível para ajudar os usuários a resolver problemas. A interface é pouco intuitiva, o que leva à frustração, já que o usuário não consegue encontrar ou entender como obter assistência.<br/>
 imagem: [Reconhecimento ao invés de memorização](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Reconhecimento%20ao%20inv%C3%A9s%20de%20memoriza%C3%A7%C3%A3o.png).
 
 4 - Descrição do problema:<br/>
