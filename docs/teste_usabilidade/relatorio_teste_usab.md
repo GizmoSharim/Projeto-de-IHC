@@ -7,29 +7,33 @@
 ***2. Técnicas utilizadas:*** Técnica baseada em observação (Thinking Aloud) e Tecnica baseada em perguntas (Feedback).<br/>
 ***3. Perfil dos usuários:*** Todas as pessoas de qualquer faixa etária, que não tenham deficiência visual e que possam fazer compras.<br/>
 
-**3.1 -Usuário 1 / Paticipante 1(P1):**<br/>
+**3.1 -Usuário 1 / Participante 1 (P1):**<br/>
 **NOME:** Sabrina Leal Amazonas.<br/>
 **IDADE:** 21 anos.<br/>
 **GÊNERO:** Feminino.<br/>
 **OCUPAÇÃO:** Graduando Sistemas de Informação (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_1.jpg)
 
-**3.2 -Usuário 2 / Paticipante 2(P2):**<br/>
+**3.2 -Usuário 2 / Participante 2 (P2):**<br/>
 **NOME:** Kaio Vitor Pereira de Castro.<br/>
 **IDADE:** 18 anos.<br/>
 **GÊNERO:** Masculino.<br/>
 **OCUPAÇÃO:** Graduando Engenharia de Produção (segundo período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_2.jpg)
 
-**3.3 -Usuário 3  / Paticipante 3(P3):**<br/>
+**3.3 -Usuário 3  / Participante 3 (P3):**<br/>
 **NOME:** Lenilson Marchão Carvalho.<br/>
 **IDADE:** 27 anos.<br/>
 **GÊNERO:** Masculino.<br/>
 **OCUPAÇÃO:** Graduando Engenharia de Produção (sexto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_3.jpg)
 
-**3.4 -Usuário 4 / Paticipante 4(P4):**<br/>
+**3.4 -Usuário 4 / Participante 4 (P4):**<br/>
 **NOME:** Jany Felix Rodrigues.<br/>
 **IDADE:** 19 anos.<br/>
 **GÊNERO:** Feminino.<br/>
 **OCUPAÇÃO:** Graduando Farmácia (quarto período) no Instituto de Ciências Exatas e tecnologia (ICET).<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/a8050f80757f0f84e5f78b1a3558e4e955854f6a/docs/teste_usabilidade/TCLE/tcle_4.jpg)
 
 ***4. Métricas:*** Foi montada uma tabela para cada tarefa, com o intuito de assim, o avaliador conseguir avaliar o usuário de maneira mais organizada, nomeando os usuários por números como: P1, P2, P3 e P4. Além disso, as tabelas foram divididas em cinco tópicos: participante, tempo gasto, número de erros, tentativas e solicitação de ajuda.<br/>
 
