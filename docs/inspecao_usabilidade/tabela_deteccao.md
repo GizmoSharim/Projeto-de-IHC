@@ -144,7 +144,7 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 | ID | Heurísticas Violadas | Severidade | Carga Horária |
 |----|----------------------|------------|---------------|
-|  1 |Consistência e padrões|      2      |2 minutos      |
+|  1 |Consistência e padrões|      2     |4 minutos      |
 |  2 |                      |            |               |
 |  3 |                      |            |               |
 |  4 |                      |            |               |
