@@ -10,7 +10,7 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 |  4 |      A1, A2, A6      |          	Informações dos produtos e status do sistema não estão totalmente visíveis ou claras.             |       Visibilidade do Status do Sistema          |            |    
 |  5 |      A1, A2, A6      |         O sistema utiliza ícones sem explicar suas funções, exigindo que o usuário memorize ou deduza suas funcionalidades.              |       Reconhecer ao invés de Relembrar           |            |      
 |  6 |         	A1, A2, A3, A4   |         O sistema apresenta opções, termos ou informações que não fazem sentido no contexto do mundo real.              |       Compatibilidade do Sistema com o Mundo Real|            |      
-|  7 |        A2, A4    |                       |       Controle e Liberdade do Usuário            |            |      
+|  7 |        A2, A4    |         	O sistema não oferece uma maneira fácil de o usuário retornar à página anterior, limitando sua liberdade de navegação.              |       Controle e Liberdade do Usuário            |            |      
 |  8 |      A2      |                       |       Flexibilidade e Eficiência de Uso          |            |      
 |  9 |        A2, A3    |                       |      Ajuda e Documentação                        |            |      
 
