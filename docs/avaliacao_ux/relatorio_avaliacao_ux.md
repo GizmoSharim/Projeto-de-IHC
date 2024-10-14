@@ -20,11 +20,28 @@ Para Wagner (2022) o Interaction to Next Paint é o responsável por medir a res
 ## Cumulative Layout Shift (CLS)
 ![image](https://github.com/user-attachments/assets/54f88e1e-5d1a-4971-995d-daaafa0cdeb9)
 
+De acordo com Maranho (2023), o Cumulative Layout Shift é uma métrica que avalia o desempenho de web design e usabilidade, além de medir a estabilidade visual de uma página na web, analisando a quantidade de mudanças inesperadas no layout do site enquanto ele carrega e enquanto é utilizado pelo usuário.
+
+Ademais, segundo Walton e Mihajlija (2023), os sites devem possuir uma pontuação de 0,1 ou menos para ser considerada uma boa pontuação, enquanto uma pontuação entre 0,1 e 0,25 indica que o site precisa de melhorias e uma pontuação acima de 0,25 é considerada ruim. Ao observar que a pontuação do site avaliado foi de 0,29, infere-se que o usuário pode ter uma experiência instável e com algumas distrações ao utilizar o sistema, causando até mesmo frustação para ele, visto que ele pode clicar em ícones indesejados.
+
+Com esse resultado, o site fica para trás em relação a outros sites na classificação de resultados de pesquisa no mecanismo de busca Google, já que o mesmo usa como fator fundamental para a classificação, a experiência do usuário. Ou seja, visto que o site avaliado possui um CLS alto, o site acaba por não ficar bem avaliado.
+
 ## First Contenful Paint (FCP)
 ![image](https://github.com/user-attachments/assets/cdb94fa4-4c1a-4381-9785-15668b825230)
 
+Para Holcombe (2024), First Contenful Paint é uma métrica que mede o tempo necessário para que o primeiro elemento do sistema apareça na tela do usuário.
+Nesse contexto, Walton (2023) diz que uma pontuação de FCP é de 1,8 segundos, e uma pontuação entre 1,8 segundo e 3 segundos sinaliza que o site precisa de melhorias e uma pontuação acima de 3 segundos é ruim.
+
+Com isso, ao verificar que o sistema recebeu uma pontuação de 1,7 segundos, conclui-se que o sistema gera uma boa experiência para o usuário no quesito de exibir um simples item na tela do usuário, que serve como um aviso para ele de que o site está carregando, pois se o navegador apenas mostrar uma tela em branco, o usuário poderia ficar em duvida se o site estava funcionando normalmente, além de minimizar a lentidão e melhorar o engajamento.
+
 ## time to First Byte (TTFB)
 ![image](https://github.com/user-attachments/assets/584bd5e3-a377-4337-96f1-357859074817)
+
+Segundo Silva (2023), o Time To First Byte é uma métrica de desempenho que mede o tempo que o servidor demora para disponibilizar o primeiro byte do site para o browser de internet após o usuário ter solicitado, sendo que esse tempo é em milissegundos.
+
+Além disso, na visão de Pollard e Wagner (2024), a pontuação ideal para essa métrica é de 800ms ou menos, e com a pontuação entre 800ms e 1800ms o sistema necessita de melhorias, enquanto uma pontuação ruim é aquela que ultrapassa os 1800ms. Ou seja, visto que site apresentou uma pontuação de 1300ms, é indicado que ele passe por melhorias para que esse tempo seja corrigido e assim, deixa a experiência do usuário ainda mais positiva.
+
+Portanto, o servidor do sistema é rápido, respondendo em uma velocidade muito alta após receber uma solicitação, o que garante uma experiência leve e agradável para o usuário, entretanto, como já dito, é recomendado que site passe por melhorias para que o tempo de resposta melhore, já que o ideal é de 800ms ou menos.
 
 ## Acessibilidade
 ![image](https://github.com/user-attachments/assets/2c79bbca-0d18-4fd9-8c05-72089132b747)
@@ -43,10 +60,22 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 Heričko, T.; Šumak, B.; Brdnik, S.. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
 
+Holcombe, J. 2024. First Contentful Paint Explicado: Como Melhorar o seu Tempo. Disponível em: <https://kinsta.com/pt/blog/first-contentful-paint/>. Acesso em 12 out 2024.
+
 Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-studies/rakuten>. Acesso em: 10/10/2024.
+
+Maranho, L. 2023. Cumulative Layout Shift (CLS): Saiba como melhorar a métrica. Disponível em: <https://liveseo.com.br/seo/cumulative-layout-shift-cls/#:~:text=CLS%2C%20ou%20Cumulative%20Layout%20Shift,de%20uma%20p%C3%A1gina%20da%20web>.  Acesso em: 12 out 2024.
+
+Pollard, B.; Wagner, J. 2024. Tempo até o primeiro byte (TTFB). Disponível em: <https://web.dev/articles/ttfb?hl=pt-br#what_is_ttfb>. Acesso em 12 out 2024.
+
+Silva, V. 2023. Time To First Byte (TTFB) O que é e sua importância. Disponível em: <https://www.inetweb.com.br/post/_ttfb?srsltid=AfmBOorMhMFI0YkqvsPuKRZgZC3bYCo5YYeMp1jvTQ2QXaZsVUwlrCp8>. Acesso em 13 out 2024.
 
 Wagner, J. (2022). Interaction to next paint (INP). WEB.DEV. Disponível em:  <fonte: https://web.dev/articles/inp>. Acesso em: 10/10/2024.
 
-Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: <fonte: https://web.dev/articles/lcp>. Acesso em: 11/10/2024
+Walton, P. 2023. First Contentful Paint (FCP). Disponível em: <https://web.dev/articles/fcp?hl=pt-br>. Acesso em: 13 out 2024.
+
+Walton, P.; Mihajlija, M. 2023. Cumulative Layout Shift (CLS). Disponível em: <https://web.dev/articles/cls?hl=pt-br#what-is-a-good-cls-score>. Acesso em: 12 maio out 2024.
+
+Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: fonte: <https://web.dev/articles/lcp>. Acesso em: 11/10/2024
 
 WEBAIM. (2021). Texto Alternativo. WEBAIM. Disponivel em: <https://webaim.org/techniques/alttext/>. Acesso em: 11/10/2024.
