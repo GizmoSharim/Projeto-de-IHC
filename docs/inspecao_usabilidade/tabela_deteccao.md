@@ -155,7 +155,7 @@ imagem: [Concientização e padrões] (https://github.com/GizmoSharim/Projeto-de
 
 2 - Descrição do problema:<br/>
 O sistema não oferece documentação ou ajuda acessível para os usuários resolverem problemas na busca por ajuda. O usuário encontrou uma interface nada intuitiva e acabou se frustrando por não conseguir entender em como obter ajuda.<br/>
-imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Ajuda%20e%20documenta%C3%A7%C3%A3o.png)
+imagem: [Ajuda e documentação](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png)
 
 3 - Descrição do problema:<br/>
 O sistema não facilita o reconhecimento de itens corretos e relevantes para a pesquisa do usuário, exigindo que ele procure manualmente por itens específicos ou refine sua busca. Isso causa frustração e aumenta o tempo para completar a tarefa.<br/>
