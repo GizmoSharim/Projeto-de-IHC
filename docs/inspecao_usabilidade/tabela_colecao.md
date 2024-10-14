@@ -7,8 +7,8 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 |  1 | A1, A2, A3, A4 |            Muita informação exibida na tela inicial, o que pode confundir o usuário.           |       Design Estético e Minimalista              |            |
 |  2 |       A1, A2, A3, A4, A6     |           Texto, ícones e fontes inconsistentes, causando confusão e falta de uniformidade visual.            |       Consistência e Padrões                     |            |    
 |  3 |      A1, A2, A3      |            A pesquisa ou navegação do sistema resulta em erros ou confusões para o usuário, induzindo-o a tomar decisões incorretas.           |       Prevenção de Erros                         |            |       
-|  4 |      A1, A2, A6      |                       |       Visibilidade do Status do Sistema          |            |    
-|  5 |      A1, A2, A6      |                       |       Reconhecer ao invés de Relembrar           |            |      
+|  4 |      A1, A2, A6      |          	Informações dos produtos e status do sistema não estão totalmente visíveis ou claras.             |       Visibilidade do Status do Sistema          |            |    
+|  5 |      A1, A2, A6      |         O sistema utiliza ícones sem explicar suas funções, exigindo que o usuário memorize ou deduza suas funcionalidades.              |       Reconhecer ao invés de Relembrar           |            |      
 |  6 |         	A1, A2, A3, A4   |                       |       Compatibilidade do Sistema com o Mundo Real|            |      
 |  7 |        A2, A4    |                       |       Controle e Liberdade do Usuário            |            |      
 |  8 |      A2      |                       |       Flexibilidade e Eficiência de Uso          |            |      
