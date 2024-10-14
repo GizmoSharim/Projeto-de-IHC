@@ -144,13 +144,13 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 | ID | Heurísticas Violadas | Severidade | Carga Horária |
 |----|----------------------|------------|---------------|
-|  1 |                      |            |               |
+|  1 |Consistência e padrões|      2      |2 minutos      |
 |  2 |                      |            |               |
 |  3 |                      |            |               |
 |  4 |                      |            |               |
 
-1 - Descrição do problema:<br/>
-
+1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. 
+imagem:
 2 - Descrição do problema:<br/>
 
 3 - Descrição do problema:<br/>
