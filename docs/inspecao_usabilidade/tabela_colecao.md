@@ -12,5 +12,5 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 |  6 |         	A1, A2, A3, A4   |         O sistema apresenta opções, termos ou informações que não fazem sentido no contexto do mundo real.              |       Compatibilidade do Sistema com o Mundo Real|            |      
 |  7 |        A2, A4    |         	O sistema não oferece uma maneira fácil de o usuário retornar à página anterior, limitando sua liberdade de navegação.              |       Controle e Liberdade do Usuário            |            |      
 |  8 |      A2      |              A pesquisa retorna resultados irrelevantes, o que frustra o usuário ao não encontrar o que procura.         |       Flexibilidade e Eficiência de Uso          |            |      
-|  9 |        A2, A3    |                       |      Ajuda e Documentação                        |            |      
+|  9 |        A2, A3    |            O sistema não oferece documentação ou ajuda acessível, levando o usuário a frustração por não conseguir suporte quando necessário.           |      Ajuda e Documentação                        |            |      
 
