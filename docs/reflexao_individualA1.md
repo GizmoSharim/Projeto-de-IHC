@@ -1,1 +1,3 @@
-
+# Conclusões e Reflexões sobre o aprendizado: Inspetor A1.
+O trabalho proposto busca oferecer um campo prático de aprenzidado de toda a teoria ministrada em sala. Abordando todos os conceitos e ensinamentos do orientador do trabalho e aplicando em um sistema escolhido. Consequentemente, trouxe desafios, dificuldades, barreiras, mas também ofereceu aprendizado, experiência e conhecimento prátido de como funciona a Interação Humano-Computador. Contudo, toda essa dinâmica proporcionou para o desenvolvimento profissional e teórico da área.
+No que se refere a dificuldades e desafios, primeiramente foi o uso da ferramenta GitHub
