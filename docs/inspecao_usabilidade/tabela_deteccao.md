@@ -142,12 +142,12 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 ### Inspetor : A3
 
-| ID | Heurísticas Violadas | Severidade | Carga Horária |
-|----|----------------------|------------|---------------|
-|  1 |Consistência e padrões|      3     |5 minutos      |
-|  2 |Ajuda e documentação  |      3      |       3 minutos        |
-|  3 |Reconhecimento ao invés de memorização|     3       |       4 minutos        |
-|  4 |                      |            |               |
+| ID | Heurísticas Violadas                      | Severidade | Carga Horária |
+|----|-------------------------------------------|--------------|----------------|
+|  1 |Consistência e padrões                     |      3       | 5 minutos      |
+|  2 |Ajuda e documentação                       |      3       | 3 minutos      |
+|  3 |Reconhecimento ao invés de memorização     |      3       | 4 minutos      |
+|  4 |Compatibilidade do sistema com o mundo real|      3       | 2 minutos      |
 
 1 - Descrição do problema:<br/> O usuário tem que ultilizar alguns metódos de nova aprenziagem com relação ao sistema visto que o mesmo deve realizar toda uma exploração dentre ícones e telas. <br/>
 imagem: [Concientização e padrões] (https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Concientiza%C3%A7%C3%A3o%20e%20padr%C3%B5es.png).
@@ -162,7 +162,7 @@ O sistema não facilita o reconhecimento de itens corretos e relevantes para a p
 imagem: [Reconhecimento ao invés de memorização](https://github.com/GizmoSharim/Projeto-de-IHC/blob/main/docs/inspecao_usabilidade/imagens/imagens_inspecaoA3/Reconhecimento%20ao%20inv%C3%A9s%20de%20memoriza%C3%A7%C3%A3o.png).
 
 4 - Descrição do problema:<br/>
-
+Busca do sistema não está adequada ao contexto ou às expectativas do mundo real. O usuário espera que "xadrez" retorne resultados relacionados ao jogo, mas o sistema mostra itens fora de contexto (como roupas).
 
 
 ### Inspetor : A4
