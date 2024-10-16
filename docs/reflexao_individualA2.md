@@ -1,7 +1,6 @@
 ## Reflexão Individual - Inspetor A2
-Desafios enfrentados, lições, contribuição para as habilidades em ihc, relevancia <br/>
 
-Inicialmente, quando o trabalho foi apresentados para os alunos de Engenharia de Software, foi quase uma surpresa, pois, era algo que não tinhamos feito antes. Foram atribuídas tarefas nas quais tivemos que trabalhar com pessoas de fora da sala, com termos e técnicas para abordá-las. É interessante, pelo motivo de que somente nós, discentes, ficamos responsáveis por realizá-la, mesmo com várias outras coisas para fazer simultaneamente.<br/>
+Inicialmente, quando o trabalho foi apresentados para os alunos de Engenharia de Software, foi quase uma surpresa, pois, era algo que não tinhamos feito antes. Foram atribuídas tarefas nas quais tivemos que trabalhar com pessoas de fora da sala, com termos e técnicas para abordá-las.<br/>
 
 Dessa forma, realizamos as atividades necessárias, primeiro foi criar um grupo e depois foi criar um repositório no GitHub. Era a minha primeira vez utilizando essa ferramenta, logo tive dificuldades em formatar o repositório de acordo com o modelo enviado no classroom. Apaguei muitas pastas e arquivos, porque estava testando entender como o GitHub funciona, foram bastantes "commits" por minha parte. <br/>
 
