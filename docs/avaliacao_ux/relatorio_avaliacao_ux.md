@@ -142,6 +142,8 @@ Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-s
 
 Maranho, L. 2023. Cumulative Layout Shift (CLS): Saiba como melhorar a métrica. Disponível em: <https://liveseo.com.br/seo/cumulative-layout-shift-cls/#:~:text=CLS%2C%20ou%20Cumulative%20Layout%20Shift,de%20uma%20p%C3%A1gina%20da%20web>.  Acesso em: 12 out 2024.
 
+Nyakio, L. 2023. Como você pode usar o UEQ para avaliar a experiência do usuário do seu produto? Disponível em: <https://pt.linkedin.com/advice/0/how-can-you-use-ueq-assess-user-experience-your-hh9ff?lang=pt>. Acesso em: 14 out 2024.
+
 Pollard, B.; Wagner, J. 2024. Tempo até o primeiro byte (TTFB). Disponível em: <https://web.dev/articles/ttfb?hl=pt-br#what_is_ttfb>. Acesso em 12 out 2024.
 
 Silva, V. 2023. Time To First Byte (TTFB) O que é e sua importância. Disponível em: <https://www.inetweb.com.br/post/_ttfb?srsltid=AfmBOorMhMFI0YkqvsPuKRZgZC3bYCo5YYeMp1jvTQ2QXaZsVUwlrCp8>. Acesso em 13 out 2024.
