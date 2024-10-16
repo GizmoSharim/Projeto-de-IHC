@@ -1,17 +1,34 @@
 # Tabela de Coleção de Defeitos
 
 Descrição: Processo de eliminação de discrepâncias repetidas, resultando em uma lista composta apenas por discrepâncias únicas.
-| ID | Inspetores | Descrição do problema |     Heurísticas Violadas      | Severidade |
-|----|------------|-----------------------|-------------------------------|------------|
-|  1 |            |                       |                               |            |
-|  2 |            |                       |                               |            |    
-|  3 |            |                       |                               |            |       
-|  4 |            |          	            |                               |            |    
-|  5 |            |                       |                               |            |      
-|  6 |            |                       |                               |            |      
-|  7 |            |         	            |                               |            |      
-|  8 |            |                       |                               |            |      
-|  9 |            |                       |                               |            | 
+| ID | Inspetores |                      Descrição do problema                                       |     Heurísticas Violadas      | Severidade |
+|----|------------|----------------------------------------------------------------------------------|-------------------------------|------------|
+|  1 |      A1    |  Menus de categoria pouco intuitivos referente ao que é "Choice" e "Plus".       |        Prevenção de Erros     |      2     |
+|  2 |      A1    |  Induz ao usuário abrir uma nova aba ao invés de mostrar o produto imediatamente.|       Prevenção de Erros      |      2     |    
+|  3 |      A1    |  A cor pode indicar ao usuário algo pendente nessas categorias.                     |                          |            |       
+|  4 |      A1    |  Uso de hyperlink para as funções, recomendação de usar ícones        	            |                               |            |    
+|  5 |      A1    |  Palavra desconhecida, recomendação de usar uma expressão conhecida.                     |                               |            |      
+|  6 |      A1    |  Produtos com preços diferentes na mesma aba, recomendação de dividir por modelo e preço.  |                               |            |      
+|  7 |      A1    |  Mistura de idiomas, recomendação de usar apenas um idioma.      |                               |            |      
+|  8 |      A2    |  Informações desorganizadas e em outro idioma, ao clicar no botão de Big Save.                     |                               |            |      
+|  9 |      A2    |  Informações do banner não estão totalmente visíveis.                     |                               |            | 
+| 10 |      A2    |  Botão de "Adicionar ao carrinho" não funciona e não explica o motivo.  |                               |            |
+| 11 |      A2    |  As regras para a senha não são aplicadas corretamente, permitindo uma senha sem números e símbolos. |                               |            |
+| 12 |      A2    |  Botão "acessibilidade" não funciona, apenas recarrega a página.                     |                               |            |
+| 13 |      A2    |  A função "Choice" aparece em todo o site, mas não é explicada, nem na central de ajuda.        |                               |            |
+| 14 |      A3    |  O usuário precisa aprender novos métodos ao usar o sistema, explorando ícones e telas.                     |                               |            |
+| 15 |      A3    |  O sistema não oferece documentação ou ajuda acessível para os usuários resolverem problemas.    |                               |            |
+| 16 |      A3    |  A busca do sistema não retorna resultados adequados ao contexto.                     |                               |            |
+| 17 |            |                       |                               |            |
+| 18 |            |                       |                               |            |
+| 19 |            |                       |                               |            |
+| 20 |            |                       |                               |            |
+| 21 |            |                       |                               |            |
+| 22 |            |                       |                               |            |
+| 23 |            |                       |                               |            |
+| 24 |            |                       |                               |            |
+| 25 |            |                       |                               |            |
+| 26 |            |                       |                               |            |
 
 
 | ID | Inspetores | Descrição do problema |          Heurísticas Violadas                    | Severidade |
