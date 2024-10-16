@@ -57,6 +57,8 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 # Produto 9: UEQ Online.
 De acordo com Nyakio (2023), o UEQ é um questionário curto, que contém 26 itens que representam uma dimensão da experiência do usuário, onde os usuários preenchem cada item em uma escala de 7 pontos que variam e -3 a +3. 
 
+Com isso, para o trabalho, foi utilizada a versão curta do questionário, aplicada com a ferramenta de análise disponibilizada no site UEQ online a quatro participantes do teste de usabilidade, após a realização do próprio teste. Depois de ser realizada a coleta dos dados, foi feita a análise dos mesmos através do modelo Excel fornecido pelo site.
+
 ## Dados Coletados.
 
 - Participante 1:
