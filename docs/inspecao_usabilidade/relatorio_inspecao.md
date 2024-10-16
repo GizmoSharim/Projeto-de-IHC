@@ -30,7 +30,7 @@ A avaliação contou com seis avaliadores (A1, A2, A3, A4, A5 e A6), todos em fa
 | Avaliador |             Nome              |         Perfil        | Experiência Técnica | Conhecimento do Sistema |
 |-----------|-------------------------------|-----------------------|---------------------|-------------------------|
 |    A1     |Adam Andrade Ribeiro           |                       |                     |                         |
-|    A2     |Aila Karoline Santana Moreira  | Usuária avançada      |    Avançada         |         Avançado        |
+|    A2     |Aila Karoline Santana Moreira  | Usuária avançada      |    Avançada         |         Moderado        |
 |    A3     |Geovanni Ferreira Marques Veras|                       |                     |                         |
 |    A4     |Gustavo de Oliveira Pena       |                       |                     |                         |
 |    A5     |Ícaro de Abreu Silva           |                       |                     |                         |
