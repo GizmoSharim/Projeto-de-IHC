@@ -1,10 +1,10 @@
-## Tabela 
+# Tabela do Cronograma
 | Tarefas | 03/10 | 04/10 | 05/10 | 06/10 | 07/10 | 08/10 | 09/10 | 10/10 | 11/10 | 12/10 | 13/10 | 14/10 | 15/10 | 16/10 |
 |---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 |   T1    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
-|   T2    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
-|   T3    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
-|   T4    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
+|   T2    |       |       |       |A2:3   |A2:2   |A2:1   |A2:1   |       |       |A2:2   |A2:5   |       |       |       |
+|   T3    |       |       |       |       |       |       |       |       |       |       |      |A2:3, A6:1|       |       |
+|   T4    |       |       |       |   |A2:2, A1:2|A2:1, A1:2|       |       |       |       |       |       |       |       |
 |   T5    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
 |   T6    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
 |   T7    |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
@@ -17,3 +17,18 @@
 |   T14   |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
 |   T15   |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
 
+## Tarefas listadas:
+T1: Distribuição de Tarefas.<br/>
+T2: Formatação do GitHub.<br/>
+T3: Sistema (escrita sobre ele).<br/>
+T4: Detecção de Usabilidade.<br/>
+T5: Coleção de problemas de usabilidade.<br/>
+T6: Discriminação de problemas de usabilidade.<br/>
+T7: Teste de Usabilidade.<br/>
+T8: Recrutamento dos participantes.<br/>
+T9: Análise dos Resultados do Teste de Usabilidade.<br/>
+T10: Avaliação de UX.<br/>
+T11: Avaliação de Comunicabilidade.<br/>
+T12: Recrutamento dos participantes.<br/>
+T13: Criação do vídeo do teste de comunicabilidade.<br/>
+T14: Reflexão individual de cada integrante do grupo.<br/>
