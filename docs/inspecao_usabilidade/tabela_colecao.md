@@ -1,6 +1,18 @@
 # Tabela de Coleção de Defeitos
 
 Descrição: Processo de eliminação de discrepâncias repetidas, resultando em uma lista composta apenas por discrepâncias únicas.
+| ID | Inspetores | Descrição do problema |     Heurísticas Violadas      | Severidade |
+|----|------------|-----------------------|-------------------------------|------------|
+|  1 |            |                       |                               |            |
+|  2 |            |                       |                               |            |    
+|  3 |            |                       |                               |            |       
+|  4 |            |          	            |                               |            |    
+|  5 |            |                       |                               |            |      
+|  6 |         	  |                       |                               |            |      
+|  7 |            |         	            |                               |            |      
+|  8 |            |                       |                               |            |      
+|  9 |            |                       |                               |            | 
+
 
 | ID | Inspetores | Descrição do problema |          Heurísticas Violadas                    | Severidade |
 |----|----------------|-----------------------|--------------------------------------------------|------------|
@@ -13,4 +25,6 @@ Descrição: Processo de eliminação de discrepâncias repetidas, resultando em
 |  7 |        A2, A4    |         	O sistema não oferece uma maneira fácil de o usuário retornar à página anterior, limitando sua liberdade de navegação.              |       Controle e Liberdade do Usuário            |      3      |      
 |  8 |      A2      |              A pesquisa retorna resultados irrelevantes, o que frustra o usuário ao não encontrar o que procura.         |       Flexibilidade e Eficiência de Uso          |      4      |      
 |  9 |        A2, A3    |            O sistema não oferece documentação ou ajuda acessível, levando o usuário a frustração por não conseguir suporte quando necessário.           |      Ajuda e Documentação                        |      2      |      
+
+     
 
