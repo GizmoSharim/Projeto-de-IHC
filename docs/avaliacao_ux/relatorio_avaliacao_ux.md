@@ -56,11 +56,54 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 # Produto 9: UEQ Online.
 ## Dados Coletados.
+
 - Participante 1:
-|Obstrutiva | 0  0  0  0  0  0  0 | De Apoio|
+  
+|Obstrutiva | 0  0  1  0  0  0  0 | De Apoio|
 |-----------|---------------------|---------|
-|Complicado1| 0  0  0  0  0  0  0  | Fácil|
-|Ineficiente|0  0  0  0  0  0  0  |Eficiente|
+|Complicado1| 0  1  0  0  0  0  0  | Fácil|
+|Ineficiente|0  0  0  1  0  0  0  |Eficiente|
+|Confuso| 1  0  0  0  0  0  0  | Claro|
+|chato| 0  0  0  0  1  0  0  | excitante|
+|Não é interessante|0  0  0  1  0  0  0  |interessante|
+|Convencional| 0  0  0  1  0  0  0  | Inventivo|
+|Habitual| 0  0  1  0  0  0  0| Ponta|
+
+- Participante 2:
+
+|Obstrutiva | 0  1  0  0  0  0  0 | De Apoio|
+|-----------|---------------------|---------|
+|Complicado1| 0  1  0  0  0  0  0  | Fácil|
+|Ineficiente|1  0  0  0  0  0  0  |Eficiente|
+|Confuso| 1  0  0  0  0  0  0  | Claro|
+|chato| 1  0  0 0  0  0  0  | excitante|
+|Não é interessante|0  0  1  0  0  0  0  |interessante|
+|Convencional| 0  0  0  0  0  1  0  | Inventivo|
+|Habitual| 0  0  0  1  0  0  0| Ponta|
+
+- Participante 3:
+
+|Obstrutiva | 0  0  0  0  1  0  0 | De Apoio|
+|-----------|---------------------|---------|
+|Complicado1| 0  1  0  0  0  0  0  | Fácil|
+|Ineficiente|1  0  0  0  0  0  0  |Eficiente|
+|Confuso| 0  0  0  1  0  0  0  | Claro|
+|chato| 0  0  0  1  0  0  0  | excitante|
+|Não é interessante|0  0  0  0  0  0  1  |interessante|
+|Convencional| 0  1  0  0  0  0  0  | Inventivo|
+|Habitual| 0  0  0  0  0  1  0| Ponta|
+
+- Participante 4:
+
+|Obstrutiva | 1  0  0  0  0  0  0 | De Apoio|
+|-----------|---------------------|---------|
+|Complicado1| 1  0  0  0  0  0  0  | Fácil|
+|Ineficiente|1  0  0  0  0  0  0  |Eficiente|
+|Confuso| 1  0  0  0  0  0  0  | Claro|
+|chato| 0  0  0  0  0  0  1  | excitante|
+|Não é interessante|0  0  0  0  0  0  1  |interessante|
+|Convencional| 0  0  0  1  0  0  0  | Inventivo|
+|Habitual| 0  0  0  0  0  1  0| Ponta|
 
 
 # Referencias
