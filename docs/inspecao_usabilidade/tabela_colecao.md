@@ -3,9 +3,9 @@
 Descrição: Processo de eliminação de discrepâncias repetidas, resultando em uma lista composta apenas por discrepâncias únicas.
 | ID | Inspetores |                      Descrição do problema                                                          |     Heurísticas Violadas      | Severidade |
 |----|------------|-----------------------------------------------------------------------------------------------------|-------------------------------|------------|
-|  1 |      A1    |  Menus de categoria pouco intuitivos referente ao que é "Choice" e "Plus".                          |        Prevenção de Erros     |      2     |
-|  2 |      A1    |  Induz ao usuário abrir uma nova aba ao invés de mostrar o produto imediatamente.                   |       Prevenção de Erros      |      2     |    
-|  3 |      A1    |  A cor pode indicar ao usuário algo pendente nessas categorias.                                     |       Visibilidade do Status do Sistema|            |     
+|  1 |      A1    |  Menus de categoria pouco intuitivos referente ao que é "Choice" e "Plus".                          |Prevenção de Erros     |      2     |
+|  2 |      A1    |  Induz ao usuário abrir uma nova aba ao invés de mostrar o produto imediatamente.                   |Prevenção de Erros      |      2     |    
+|  3 |      A1    |  A cor pode indicar ao usuário algo pendente nessas categorias.                                     |Visibilidade do Status do Sistema|            |     
 |  4 |      A1    |  Uso de hyperlink para as funções, recomendação de usar ícones        	                         |Reconhecer ao invés de Relembrar |            |    
 |  5 |      A1    |  Palavra desconhecida, recomendação de usar uma expressão conhecida.                                |Compatibilidade com o Mundo Real                        |            |     
 |  6 |      A1    |  Produtos com preços diferentes na mesma aba, recomendação de dividir por modelo e preço.           |Prevenção de Erros                        |            |
