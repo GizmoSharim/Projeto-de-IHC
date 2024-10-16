@@ -7,6 +7,9 @@ Todos impactando diretamente na perspectiva que o usuário tem ao acessar determ
 
 Fonte: https://pagespeed.web.dev/analysis/https-www-aliexpress-com-gcp-300000544-w5mAJSydGG/e1uzaoj3n3?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=pt&utm_source=lh-chrome-ext
 ## Problemas com a Ferramenta LightHouse
+No decorrer do trabalho, houveram alguns problemas ao tentar utilizar a ferramenta LightHouse para realizar o teste de UX com o sistema avaliado, pois a ferramenta não gerava o relatório quando se tentava utilizar a URL da página principal do site, tanto a URL estendida quanto a URL reduzida.
+
+Para solucionar o problema, foi necessário utilizar a URL da página de um produto selecionado.
 
 ## Largest Contenful Paint (LCP)
 ![image](https://github.com/user-attachments/assets/341d3ba3-d7d3-4799-922f-c1d759d2d1ea)
