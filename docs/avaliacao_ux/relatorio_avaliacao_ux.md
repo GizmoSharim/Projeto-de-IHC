@@ -55,6 +55,13 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 
 # Produto 9: UEQ Online.
+## Dados Coletados.
+- Participante 1:
+|Obstrutiva | 0  0  0  0  0  0  0 | De Apoio|
+|-----------|---------------------|---------|
+|Complicado1| 0  0  0  0  0  0  0  | Fácil|
+|Ineficiente|0  0  0  0  0  0  0  |Eficiente|
+
 
 # Referencias
 
