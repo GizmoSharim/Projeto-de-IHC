@@ -6,6 +6,8 @@ Todos impactando diretamente na perspectiva que o usuário tem ao acessar determ
 ![image](https://github.com/user-attachments/assets/a8dc4c44-b821-4dd9-a8cc-7455b163338e)
 
 Fonte: https://pagespeed.web.dev/analysis/https-www-aliexpress-com-gcp-300000544-w5mAJSydGG/e1uzaoj3n3?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=pt&utm_source=lh-chrome-ext
+## Problemas com a Ferramenta LightHouse
+
 ## Largest Contenful Paint (LCP)
 ![image](https://github.com/user-attachments/assets/341d3ba3-d7d3-4799-922f-c1d759d2d1ea)
 
