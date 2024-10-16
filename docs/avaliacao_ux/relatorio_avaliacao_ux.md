@@ -55,6 +55,7 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 
 
 # Produto 9: UEQ Online.
+
 ## Dados Coletados.
 
 - Participante 1:
@@ -105,9 +106,31 @@ Por fim, a falta de especificação do idioma principal da página no código HT
 |Convencional| 0  0  0  1  0  0  0  | Inventivo|
 |Habitual| 0  0  0  0  0  1  0| Ponta|
 
+## Resultados UEQ Online
+
+| Item |Media| Variancia | Std. Dev | Nº | Negativo | Positivo | Escala |
+|------|-----|-----------|----------|----|----------|----------|--------|
+|1     |-1,3 |2,9       |1,7       |4   |Obstrutivo|Condutor  |Qualidade Pragmatica|
+|2     |-2,3 |0,3       |0,5       |4   |Complicado|Facil     |Qualidade Pragmatica|
+|3     |-2,3 |2,3       |1,5       |4   |Ineficiente|Eficiente|Qualidade Pragmatica|
+|4     |-2,3 |2,3       |1,5       |4   |Confuso   |Evidente  |Qualidade Pragmatica|
+|5     |0,3 |6,3       |2,5       |4   |Aborrecido|Excitante |Qualidade Pragmatica|
+|6     |+1,3 |4,3       |2,1       |4   |Desinteressante|Interressante|Qualidade Pragmatica|
+|7     |0,0 |2,7       |1,6       |4   |Convencional|Original|Qualidade Pragmatica|
+|8     |0,5 |1,7       |1,3       |4   |Comum      |Vanguardista|Qualidade Pragmatica|
+
+Para a ferramenta de análise de dados do UEQ valores de média obtidos entre -0,8 e +0,8 representam neutralidade entre as faixas de experiência do usuário. Resultados negativos são descritos como abaixo de -0,8, já os positivos são valores acima de 0,8, sendo o limite de cada um -3 e +3 respectivamente, apesar de que pontuar acima de 2 seja extremamente dificil, visto que esse resultado é gerado a partir de uma média e pontuar em uma escala perfeita é improvável.
+
+Contudo, a partir da análise da tabela é possível verificar os pontos negativos da experiência do usuário ao visitar o site em questão. Assim, é considerado como obstrutivo, complicado, ineficiente e confuso, proporcionando uma percepção desagradável ao cliente ter contado com o site. Do mesmo modo, houve neutralidade com relação ao sentimento de aborrecimento/excitante, convencional/original e comum/vanguardista. Por fim, os usuários o classificaram como interessante, sendo a única caracteristica positiva da pesquisa.
+
+|qualidade pragmática|-2,0 |
+|--------------------|-----|
+|Qualidade Hedonica  |+0,5 |
+|Geral               |-0,75|
+
+Na relação de nota da qualidade pragmática, percebe-se que os usuários encontraram dificuldades na usabilidade e no aprendizado de realizar as funções no sistema. Já em relação à qualidade hedônica, a pontuação de +0,5 indica que os sentimentos dos usuários ao utilizar o sistema foram neutros. Contudo, embora a avaliação da usabilidade esteja bem abaixo de um nível positivo, o resultado geral entre as duas métricas demonstra que o sistema conseguiu se manter próximo à neutralidade.
 
 # Referencias
-
 Heričko, T.; Šumak, B.; Brdnik, S.. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
 
 Holcombe, J. 2024. First Contentful Paint Explicado: Como Melhorar o seu Tempo. Disponível em: <https://kinsta.com/pt/blog/first-contentful-paint/>. Acesso em 12 out 2024.
