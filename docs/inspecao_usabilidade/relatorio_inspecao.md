@@ -34,7 +34,7 @@ A avaliação contou com seis avaliadores (A1, A2, A3, A4, A5 e A6), todos em fa
 |    A3     |Geovanni Ferreira Marques Veras|                       |                     |                         |
 |    A4     |Gustavo de Oliveira Pena       |                       |                     |                         |
 |    A5     |Ícaro de Abreu Silva           |                       |                     |                         |
-|    A6     |Sabrina Martins Bezerra        |                       |                     |                         |
+|    A6     |Sabrina Martins Bezerra        | Usuária intermediária |  Intermediária      |         Moderado        |
 
 ## Processo da Inspeção de Usabilidade<br/>
 Cada avaliador foi incumbido de navegar e avaliar diferentes partes da interface, identificando problemas de usabilidade de acordo com as heurísticas. Para isso, foi utilizada uma extensão no Google Chrome, conhecida como "UX Check", na qual foi possível classificar o nível de severidade, a heurística violada, escrever a descrição do problema encontrado e, por fim, proporcionar uma melhoria ou recomendação para o problema encontrado. As recomendações também foram documentadas para ajudar na correção dos problemas identificados.<br/>
