@@ -141,26 +141,26 @@ Contudo, a partir da análise da tabela é possível verificar os pontos negativ
 Na relação de nota da qualidade pragmática, percebe-se que os usuários encontraram dificuldades na usabilidade e no aprendizado de realizar as funções no sistema. Já em relação à qualidade hedônica, a pontuação de +0,5 indica que os sentimentos dos usuários ao utilizar o sistema foram neutros. Contudo, embora a avaliação da usabilidade esteja bem abaixo de um nível positivo, o resultado geral entre as duas métricas demonstra que o sistema conseguiu se manter próximo à neutralidade.
 
 ## Referencias
-Heričko, T.; Šumak, B.; Brdnik, S.. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
+>Heričko, T.; Šumak, B.; Brdnik, S.. (2021). Towards Representative Web Performance Measurements with Google Lighthouse. 39-42. DOI: 10.18690/978-961-286-516-0.9. 
 
-Holcombe, J. 2024. First Contentful Paint Explicado: Como Melhorar o seu Tempo. Disponível em: <https://kinsta.com/pt/blog/first-contentful-paint/>. Acesso em 12 out 2024.
+>Holcombe, J. 2024. First Contentful Paint Explicado: Como Melhorar o seu Tempo. Disponível em: <https://kinsta.com/pt/blog/first-contentful-paint/>. Acesso em 12 out 2024.
 
-Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-studies/rakuten>. Acesso em: 10/10/2024.
+>Lee, H. et. al.(2024). Rakuten. WEB.DEV. Disponível em: <https://web.dev/case-studies/rakuten>. Acesso em: 10/10/2024.
 
-Maranho, L. 2023. Cumulative Layout Shift (CLS): Saiba como melhorar a métrica. Disponível em: <https://liveseo.com.br/seo/cumulative-layout-shift-cls/#:~:text=CLS%2C%20ou%20Cumulative%20Layout%20Shift,de%20uma%20p%C3%A1gina%20da%20web>.  Acesso em: 12 out 2024.
+>Maranho, L. 2023. Cumulative Layout Shift (CLS): Saiba como melhorar a métrica. Disponível em: <https://liveseo.com.br/seo/cumulative-layout-shift-cls/#:~:text=CLS%2C%20ou%20Cumulative%20Layout%20Shift,de%20uma%20p%C3%A1gina%20da%20web>.  Acesso em: 12 out 2024.
 
-Nyakio, L. 2023. Como você pode usar o UEQ para avaliar a experiência do usuário do seu produto? Disponível em: <https://pt.linkedin.com/advice/0/how-can-you-use-ueq-assess-user-experience-your-hh9ff?lang=pt>. Acesso em: 14 out 2024.
+>Nyakio, L. 2023. Como você pode usar o UEQ para avaliar a experiência do usuário do seu produto? Disponível em: <https://pt.linkedin.com/advice/0/how-can-you-use-ueq-assess-user-experience-your-hh9ff?lang=pt>. Acesso em: 14 out 2024.
 
-Pollard, B.; Wagner, J. 2024. Tempo até o primeiro byte (TTFB). Disponível em: <https://web.dev/articles/ttfb?hl=pt-br#what_is_ttfb>. Acesso em 12 out 2024.
+>Pollard, B.; Wagner, J. 2024. Tempo até o primeiro byte (TTFB). Disponível em: <https://web.dev/articles/ttfb?hl=pt-br#what_is_ttfb>. Acesso em 12 out 2024.
 
-Silva, V. 2023. Time To First Byte (TTFB) O que é e sua importância. Disponível em: <https://www.inetweb.com.br/post/_ttfb?srsltid=AfmBOorMhMFI0YkqvsPuKRZgZC3bYCo5YYeMp1jvTQ2QXaZsVUwlrCp8>. Acesso em 13 out 2024.
+>Silva, V. 2023. Time To First Byte (TTFB) O que é e sua importância. Disponível em: <https://www.inetweb.com.br/post/_ttfb?srsltid=AfmBOorMhMFI0YkqvsPuKRZgZC3bYCo5YYeMp1jvTQ2QXaZsVUwlrCp8>. Acesso em 13 out 2024.
 
-Wagner, J. (2022). Interaction to next paint (INP). WEB.DEV. Disponível em:  <fonte: https://web.dev/articles/inp>. Acesso em: 10/10/2024.
+>Wagner, J. (2022). Interaction to next paint (INP). WEB.DEV. Disponível em:  <fonte: https://web.dev/articles/inp>. Acesso em: 10/10/2024.
 
-Walton, P. 2023. First Contentful Paint (FCP). Disponível em: <https://web.dev/articles/fcp?hl=pt-br>. Acesso em: 13 out 2024.
+>Walton, P. 2023. First Contentful Paint (FCP). Disponível em: <https://web.dev/articles/fcp?hl=pt-br>. Acesso em: 13 out 2024.
 
-Walton, P.; Mihajlija, M. 2023. Cumulative Layout Shift (CLS). Disponível em: <https://web.dev/articles/cls?hl=pt-br#what-is-a-good-cls-score>. Acesso em: 12 out 2024.
+>Walton, P.; Mihajlija, M. 2023. Cumulative Layout Shift (CLS). Disponível em: <https://web.dev/articles/cls?hl=pt-br#what-is-a-good-cls-score>. Acesso em: 12 out 2024.
 
-Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: fonte: <https://web.dev/articles/lcp>. Acesso em: 11/10/2024
+>Walton, P.; Polard, B. (2019). Largest Contentful Paint (LCP). WEB.DEV. Disponível em: fonte: <https://web.dev/articles/lcp>. Acesso em: 11/10/2024
 
-WEBAIM. (2021). Texto Alternativo. WEBAIM. Disponivel em: <https://webaim.org/techniques/alttext/>. Acesso em: 11/10/2024.
+>WEBAIM. (2021). Texto Alternativo. WEBAIM. Disponivel em: <https://webaim.org/techniques/alttext/>. Acesso em: 11/10/2024.
