@@ -72,58 +72,59 @@ Tarefa 3 - Colocar itens no carrinho<br/>
 Tarefa 4 - Remover itens do carrinho<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Conseguiu sem dificuldade             |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu sem dificuldade             |
+|      P4       |Conseguiu com dificuldade             |
 
 Tarefa 5 - Navegar por categorias<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Conseguiu sem dificuldade             |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu sem dificuldade             |
+|      P4       |Conseguiu sem dificuldade             |
 
 Tarefa 6 - Usar filtros de pesquisa<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Conseguiu sem dificuldade             |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu com dificuldade             |
+|      P4       |Não conseguiu            |
 
 Tarefa 7 - Selecionar múltiplos produtos de diferentes vendedores<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Conseguiu sem dificuldade             |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu sem dificuldade             |
+|      P4       |Conseguiu sem dificuldade             |
 
 Tarefa 8 - Selecionar comprar item<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Não conseguiu            |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu sem dificuldade             |
+|      P4       |Conseguiu sem dificuldade             |
 
 Tarefa 9 - Verificar o sistema de recomendação<br/>
 | Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
+|      P1       |Conseguiu sem dificuldade             |
+|      P2       |Conseguiu sem dificuldade             |
+|      P3       |Conseguiu sem dificuldade             |
+|      P4       |Conseguiu sem dificuldade             |
 
-Tarefa 10 - Configure uma pergunta de segurança/Excluir conta<br/| Participantes | Resultados |
+Tarefa 10 - Configure uma pergunta de segurança/Excluir conta<br/>
+| Participantes | Resultados |
 |---------------|------------|
-|      P1       |            |
-|      P2       |            |
-|      P3       |            |
-|      P4       |            |
-V
+|      P1       |Não conseguiu            |
+|      P2       |Não conseguiu            |
+|      P3       |Não conseguiu            |
+|      P4       |Conseguiu sem dificuldade             |
+
 
 
 
