@@ -1,4 +1,4 @@
-# Reflexão individual - Inspetor A1
+# Reflexão individual - Inspetor A4
 O trabalho prático foi de suma importância para o aprendizado da equipe em relação a área de Interação Humano-Computador, pois foi a primeira oportunidade de colocar em prática os conceitos aprendidos em sala de aula. Essa experiência com um caso real envolveu avaliações de usabilidade, análise de experiência de usuário e comunicabilidade através do uso de ferramentas específicas para cada etapa. Entre essas etapas, a análise de UX foi a principal para mim, pois foi a área em que foquei.
 
 Na fase de inspeção de usabilidade, utilizei a extensão UX Check para avaliar a usabilidade do site com base nas heurísticas de Nielsen. Já na etapa de avaliação de UX, usei as ferramentas recomendadas para poder formular um relatório mais preciso sobre as métricas de experiência do usuário com o site avaliado. Primeiro foi utilizado a ferramenta Lighthouse para gerar um relatório com as métricas e pontuações do site e depois foi aplicado o UEQ aos participantes do teste de usabilidade.
