@@ -45,8 +45,8 @@ O método utilizado foi a classificação através das Heurísticas de Nielsen. 
 |-----------|-------------------------------|-----------------------|---------------------|-------------------------|
 |    A1     |Adam Andrade Ribeiro           | Usuário avançado      |     Básica          |      Intermediário      |
 |    A2     |Aila Karoline Santana Moreira  | Usuária avançada      |    Avançada         |         Avançado        |
-|    A3     |Geovanni Ferreira Marques Veras|                       |                     |                         |
-|    A4     |Gustavo de Oliveira Pena       |  Usuário Avançado     |     Básica          |  Intermediário     |
+|    A3     |Geovanni Ferreira Marques Veras| Usuário avançado      |     Intermediário   |         Básica          |
+|    A4     |Gustavo de Oliveira Pena       |  Usuário Avançado     |     Básica          |      Intermediário      |
 |    A5     |Ícaro de Abreu Silva           |                       |                     |                         |
 |    A6     |Sabrina Martins Bezerra        |                       |                     |                         |
 
