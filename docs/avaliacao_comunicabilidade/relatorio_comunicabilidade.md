@@ -22,6 +22,7 @@ O método está sendo utilizado para medir a dificuldade do usuário a usar o si
 **IDADE:** 18 anos.
 **GÊNERO:** Feminino.
 **OCUPAÇÃO:** Graduando Matemática e Física (segundo período) no Instituto de Ciências Exatas e Tecnologia (ICET).
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7dd8189e364113303a45745c41e20e2ef39a2bfd/docs/avaliacao_comunicabilidade/TCLE/tcle1.jpg)<br/>
 
 
 **3.2 - Usuário 2 / Participante 2 (P2):**<br/>
@@ -29,18 +30,21 @@ O método está sendo utilizado para medir a dificuldade do usuário a usar o si
 **IDADE:** 26 anos.<br/>
 **GÊNERO:** Feminino.<br/>
 **OCUPAÇÃO:** Graduando Matemática e Física (segundo período) no Instituto de Ciências Exatas e Tecnologia (ICET). <br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7dd8189e364113303a45745c41e20e2ef39a2bfd/docs/avaliacao_comunicabilidade/TCLE/tcle3.jpg)<br/>
 
 **3.3 - Usuário 3 / Participante 3 (P3):**<br/>
 **NOME:** Eije Guilherme Taguchi.  <br/>
 **IDADE:** 21 anos.<br/>
 **GÊNERO:** Masculino.<br/>
 **OCUPAÇÃO:** Graduando Sistema de Informação (oitavo período) no Instituto de Ciências Exatas e Tecnologia (ICET).<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7dd8189e364113303a45745c41e20e2ef39a2bfd/docs/avaliacao_comunicabilidade/TCLE/tcle2.jpg)<br/>
 
 **3.4 - Usuário 4 / Participante 4 (P4):**<br/>
 **NOME:** Suellen Aline Dacio de Abreu Silva.<br/>
 **IDADE:** 39 anos.<br/>
 **GÊNERO:** Feminino.<br/>
 **OCUPAÇÃO:** Dona de Casa.<br/>
+[Termo de Consentimento Livre e Esclarecido](https://github.com/GizmoSharim/Projeto-de-IHC/blob/7dd8189e364113303a45745c41e20e2ef39a2bfd/docs/avaliacao_comunicabilidade/TCLE/tcle4.jpg)<br/>
 
 ## Execução do teste 
 Os usuários foram informados sobre o teste antes de assinarem o termo de consentimento depois foram instruídos a executar as atividades da lista no site Aliexpress, então o teste foi iniciado, cada participante teve o tempo que quisesse/ou precisasse. Cada usuário teve seu teste sendo feito sozinho, sem nenhuma interrupção ou algo q pudesse atrapalhar o teste, e qualquer pergunta que não ferisse a integridade do teste foram respondidas.<br/>
