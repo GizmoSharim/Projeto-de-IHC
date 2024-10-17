@@ -544,5 +544,5 @@ Resultado: (3 + 0 + 0 + 2) / (7 x 5) = 5 / 35 = 0,14 x 100 = 14%<br/>
 O teste de usabilidade do site AliExpress apontou pontos fortes e áreas de melhoria. Os usuários apreciam a ampla variedade de produtos e os preços acessíveis, mas encontram dificuldades na navegação, especialmente ao explorar categorias e subcategorias. A pesquisa de produtos, embora robusta, poderia ser aprimorada com filtros mais intuitivos e precisos. O layout, embora visualmente agradável, pode sobrecarregar novos usuários com informações excessivas na tela inicial. Além disso, o processo de checkout foi descrito como confuso, especialmente no momento de aplicar cupons ou selecionar métodos de pagamento. Simplificar essas etapas e oferecer uma navegação mais clara pode melhorar a experiência geral e aumentar a satisfação do cliente.<br/>
 
 
-## Referências:<br/>
+>## Referências:<br/>
 João Carlos. GitHub 2024. Disponível em: (https://github.com/JoaoCarlos22/IHC-Evaluation). Acesso em: 12 out.2024.
