@@ -42,13 +42,32 @@ Cada avaliador foi incumbido de navegar e avaliar diferentes partes da interface
 ## Problemas de usabilidade encontrados<br/>
 Consolidação dos problemas de usabilidade.
 
-| Avaliadores |  Heurística | Discrepâncias repetidas | Classificação |      Justificativa      |  Solução |
-|-------------|-------------|-------------------------|---------------|-------------------------|----------|
-|             |             |                         |               |                         |          |
-|             |             |                         |               |                         |          |
-|             |             |                         |               |                         |          |
-|             |             |                         |               |                         |          |
-|             |             |                         |               |                         |          |
-|             |             |                         |               |                         |          |
-
+| Avaliadores  | Heurística                           | Discrepâncias repetidas | Classificação   | Justificativa                                           | Solução                                      |
+|--------------|--------------------------------------|-------------------------|-----------------|-------------------------------------------------------|----------------------------------------------|
+| A1, A2       | Prevenção de Erros                   | Sim                     | Defeito real    | Menus de categorias "Choice" e "Plus" pouco intuitivos. |Mudar a lista de categorias para tornar mais claro para novos usuários. |
+| A1, A2       | Prevenção de Erros                   | Sim                     | Defeito real    | Produto abre em nova aba desnecessariamente.           | Abrir o produto diretamente na página sem nova aba. |
+| A1           | Visibilidade do Status do Sistema    | Não                     | Falso-positivo  | Cor pode sugerir ação pendente ao usuário.              |Usar cores mais transparentes nos ícones. |
+| A1           | Reconhecer ao invés de Relembrar     | Não                     | Falso-positivo  | Uso de hyperlink ao invés de ícones para funções.       |Substituir hyperlinks por ícones intuitivos. |
+| A1           | Compatibilidade com o Mundo Real     | Não                     | Defeito real    | Uso de palavra desconhecida para usuários.              |Usar uma expressão mais conhecida para evitar confusão. |
+| A1           | Prevenção de Erros                   | Não                     | Defeito real    | Produtos com diferentes preços na mesma aba.            |Dividir produtos por modelo e preço para evitar engano. |
+| A1, A2       | Compatibilidade com o Mundo Real     | Sim                     | Defeito real    | Mistura de idiomas na plataforma.                      | Usar apenas um idioma, preferencialmente português. |
+| A2           | Compatibilidade com o Mundo Real     | Não                     | Falso-positivo  | Informações estão desorganizadas em outro idioma.       | Organizar informações e garantir que estejam no idioma correto. |
+| A2           | Estética e Design Minimalista        | Não                     | Falso-positivo  | Parte do banner não é visível.                         | Ajustar o tamanho e posição do banner para melhor visibilidade. |
+| A2           | Visibilidade do Status do Sistema    | Não                     | Defeito real    | Botão não funciona e não informa motivo.               | Implementar mensagens de erro claras quando o botão falhar. |
+| A2           | Prevenção de Erros                   | Não                     | Defeito real    | Senhas fracas são permitidas.                          | Implementar regras mais rígidas para criação de senhas. |
+| A2           | Visibilidade do Status do Sistema    | Não                     | Defeito real    | Botão "acessibilidade" apenas recarrega a página.       | Corrigir funcionamento do botão de acessibilidade. |
+| A2           | Ajuda e Documentação                 | Não                     | Defeito real    | Função "Choice" não é explicada no site.               | Adicionar uma explicação detalhada sobre a função "Choice" na central de ajuda. |
+| A3           | Consistência e Padrões               | Não                     | Falso-positivo  | Usuário precisa aprender novos ícones e navegação.      | Adotar ícones mais intuitivos e padrões conhecidos para facilitar a navegação. |
+| A2, A3       | Ajuda e Documentação                 | Sim                     | Defeito real    | Documentação insuficiente para suporte ao usuário.     | Criar uma documentação de ajuda acessível e fácil de entender para os usuários. |
+| A2, A3       | Compatibilidade com o Mundo Real     | Sim                     | Defeito real    | A busca não retorna resultados adequados ao contexto.  | Melhorar o algoritmo de busca para que retorne resultados relevantes. |
+| A4           | Design Estético e Minimalista        | Não                     | Defeito real    | Falta de ícones dificulta a identificação de links.    | Adicionar ícones diferenciados para indicar links claramente. |
+| A4           | Design Estético e Minimalista        | Não                     | Defeito real    | Produtos são exibidos sem categorização adequada.      | Classificar os produtos adequadamente por tipo. |
+| A1, A4       | Design Estético e Minimalista        | Sim                     | Falso-positivo  | Excesso de informações induz o usuário ao erro.        | **Recomendação A1**: Minimizar as informações exibidas para novos usuários. |
+| A4           | Consistência e Padrões               | Não                     | Falso-positivo  | Ícone de loja não transmite seu significado.            | Tornar o ícone de loja mais claro e explicativo sobre sua função. |
+| A5           | Prevenção de Erros                   | Não                     | Falso-positivo  | Usuário pode ser levado a pensar que o frete é grátis.  | Destacar claramente as condições de frete para evitar confusão. |
+| A5           | Design Estético e Minimalista        | Não                     | Falso-positivo  | Excesso de informações em um só lugar.                 | Distribuir as informações de forma mais organizada e clara. |
+| A6           | Reconhecer ao invés de Relembrar     | Não                     | Defeito real    | Abas não deixam claro para onde o usuário será direcionado. | Adicionar descrições ou ícones que indiquem para onde cada aba redireciona. |
+| A6           | Reconhecer ao invés de Relembrar     | Não                     | Defeito real    | Ícone "fantasia" não é claro quanto à sua função.      | Melhorar o design do ícone "fantasia" para torná-lo mais intuitivo. |
+| A6           | Visibilidade do Status do Sistema    | Não                     | Defeito real    | Informações de telas anteriores sobrepõem-se às novas. | Corrigir o bug que faz com que informações antigas permaneçam visíveis. |
+| A2, A6       | Consistência e Padrões               | Sim                     | Defeito real    | Ícone de "preços" redireciona para abas irrelevantes.  | Corrigir o redirecionamento do ícone para abas corretas. |
 
