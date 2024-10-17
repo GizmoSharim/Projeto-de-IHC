@@ -43,7 +43,7 @@ A realização da Avaliação de Comunicabilidade foi semelhante ao do Teste de 
 
 - Inspeção de Usabilidade:<br/>
 [Relatório Inspeção de Usabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/737add6e4e1de7da67b5a820b73a794ecd9d348a/docs/inspecao_usabilidade/relatorio_inspecao.md)<br/>
-[Tabela de Coleção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/737add6e4e1de7da67b5a820b73a794ecd9d348a/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
+[Tabela de Coleção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/d01af85b23077568be8cb977bdbc67405fde5184/docs/inspecao_usabilidade/tabela_colecao.md)<br/>
 [Tabela de Detecção de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/39516a5c81e8928422791f26138ec5bb29781638/docs/inspecao_usabilidade/tabela_deteccao.md)<br/>
 [Tabela de Discriminação de Defeitos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/737add6e4e1de7da67b5a820b73a794ecd9d348a/docs/inspecao_usabilidade/tabela_discriminacao.md)<br/>
 [Imagens do Sistema](https://github.com/GizmoSharim/Projeto-de-IHC/tree/70857e36a7fa11a22d862f3c08357ee298466510/docs/inspecao_usabilidade/imagens)<br/>
