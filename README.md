@@ -56,7 +56,7 @@ A realização da Avaliação de Comunicabilidade foi semelhante ao do Teste de 
 [Relatório de Avaliação de UX](https://github.com/GizmoSharim/Projeto-de-IHC/blob/6c06e3cb67faf9ebfb91c6697b7bfca9c4a13f22/docs/avaliacao_ux/relatorio_avaliacao_ux.md)<br/>
 
 - Avaliação de Comunicabilidade:<br/>
-[Relatório de Comunicabilidade]()<br/>
+[Relatório de Comunicabilidade](https://github.com/GizmoSharim/Projeto-de-IHC/blob/b85749ed70442ca6da5b6213b2cb5da13c2be373/docs/avaliacao_comunicabilidade/relatorio_comunicabilidade.md)<br/>
 [TCLE](https://github.com/GizmoSharim/Projeto-de-IHC/tree/cc61b6cb347b544a87c770d6ff14f6580998190d/docs/avaliacao_comunicabilidade/TCLE)<br/>
 [Vídeos](https://github.com/GizmoSharim/Projeto-de-IHC/blob/cc61b6cb347b544a87c770d6ff14f6580998190d/docs/avaliacao_comunicabilidade/videos/videos_comunicabilidade.md)<br/>
 
