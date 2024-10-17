@@ -32,7 +32,7 @@ A avaliação contou com seis avaliadores (A1, A2, A3, A4, A5 e A6), todos em fa
 |    A1     |Adam Andrade Ribeiro           |    Usuário avançado   |    Básica           |        Intermediário    |
 |    A2     |Aila Karoline Santana Moreira  | Usuária avançada      |    Avançada         |         Moderado        |
 |    A3     |Geovanni Ferreira Marques Veras|                       |                     |                         |
-|    A4     |Gustavo de Oliveira Pena       |                       |                     |                         |
+|    A4     |Gustavo de Oliveira Pena       | Usuário avançado      |     Básica          |       Moderado          |
 |    A5     |Ícaro de Abreu Silva           |                       |                     |                         |
 |    A6     |Sabrina Martins Bezerra        | Usuária intermediária |  Intermediária      |         Moderado        |
 
