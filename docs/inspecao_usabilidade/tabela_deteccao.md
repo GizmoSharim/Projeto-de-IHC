@@ -207,9 +207,9 @@ Imagem: [Consistência e padrões](https://github.com/GizmoSharim/Projeto-de-IHC
 
 | ID |    Heurísticas Violadas     | Severidade | Carga Horária |
 |----|-----------------------------|------------|---------------|
-|  1 |Prevenção de erros           |            |               |
-|  2 |Design estético e minimalista|            |               |
-|  3 |Design estético e minimalista|            |               |
+|  1 |Prevenção de erros           |      3      |       3 minutos        |
+|  2 |Design estético e minimalista|      1      |       3 minutos        |
+|  3 |Design estético e minimalista|      2      |       4 minutos       |
 
 
 1 - Descrição do problema:<br/>
